@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
-  "version": "@PROJECT_VERSION@",
-  "author": "You",
-  "description": "An example Dusklight mod"
+  "id": "io.github.noaseto.uwunglish",
+  "name": "Uwunglish",
+  "version": "1.0.0",
+  "author": "Noaseto",
+  "description": "We must save hywuwe, I twust you Uwu"
 }
