@@ -1,0 +1,819 @@
+[
+  {
+    "comment": "Plumm's minigame",
+    "ID": "5, 62",
+    "text": [
+      "SCOWE"
+    ]
+  },
+  {
+    "ID": "5, 153",
+    "text": [
+      "Owdon Catfish"
+    ]
+  },
+  {
+    "ID": "5, 154",
+    "text": [
+      "Weekfish"
+    ]
+  },
+  {
+    "ID": "5, 155",
+    "text": [
+      "Hywian Pike"
+    ]
+  },
+  {
+    "ID": "5, 156",
+    "text": [
+      "Gweengiww"
+    ]
+  },
+  {
+    "ID": "5, 157",
+    "text": [
+      "Hywian Woach"
+    ]
+  },
+  {
+    "ID": "5, 158",
+    "text": [
+      "Hywuwe Bass"
+    ]
+  },
+  {
+    "ID": "5, 159",
+    "text": [
+      "Wawgest"
+    ]
+  },
+  {
+    "ID": "5, 160",
+    "text": [
+      "Nyo. Caught"
+    ]
+  },
+  {
+    "ID": "4, 213",
+    "text": [
+      "Howw"
+    ]
+  },
+  {
+    "ID": "3, 225",
+    "text": [
+      "Cowwection"
+    ]
+  },
+  {
+    "ID": "4, 12",
+    "text": [
+      "Confiwm"
+    ]
+  },
+  {
+    "ID": "1, 141",
+    "text": [
+      "Owdon Swowd"
+    ]
+  },
+  {
+    "ID": "1, 164",
+    "text": [
+      "Wooden Swowd"
+    ]
+  },
+  {
+    "ID": "1, 174",
+    "text": [
+      "Mastew Swowd"
+    ]
+  },
+  {
+    "ID": "1, 142",
+    "text": [
+      "Mastew Swowd"
+    ]
+  },
+  {
+    "ID": "1, 134",
+    "text": [
+      "Pieces of Heawt"
+    ]
+  },
+  {
+    "ID": "2, 10",
+    "text": [
+      "Miwwow Shawds"
+    ]
+  },
+  {
+    "ID": "2, 11",
+    "text": [
+      "Miwwow Shawds"
+    ]
+  },
+  {
+    "ID": "2, 12",
+    "text": [
+      "Miwwow Shawds"
+    ]
+  },
+  {
+    "ID": "1, 143",
+    "text": [
+      "Owdon Shiewd"
+    ]
+  },
+  {
+    "ID": "1, 144",
+    "text": [
+      "Wooden Shiewd"
+    ]
+  },
+  {
+    "ID": "1, 145",
+    "text": [
+      "Hywian Shiewd"
+    ]
+  },
+  {
+    "ID": "1, 148",
+    "text": [
+      "Hewo's Cwothes"
+    ]
+  },
+  {
+    "ID": "1, 149",
+    "text": [
+      "Magic Awmow"
+    ]
+  },
+  {
+    "ID": "1, 150",
+    "text": [
+      "Zowa Awmow"
+    ]
+  },
+  {
+    "ID": "1, 153",
+    "text": [
+      "Wawwet"
+    ]
+  },
+  {
+    "ID": "1, 154",
+    "text": [
+      "Big Wawwet"
+    ]
+  },
+  {
+    "ID": "1, 155",
+    "text": [
+      "Giant Wawwet"
+    ]
+  },
+  {
+    "ID": "1, 185",
+    "text": [
+      "Quivew"
+    ]
+  },
+  {
+    "ID": "1, 186",
+    "text": [
+      "Big Quivew"
+    ]
+  },
+  {
+    "ID": "1, 187",
+    "text": [
+      "Giant Quivew"
+    ]
+  },
+  {
+    "ID": "5, 176",
+    "text": [
+      "Hidden Skiwws"
+    ]
+  },
+  {
+    "ID": "5, 184",
+    "text": [
+      "Gowden Bugs"
+    ]
+  },
+  {
+    "ID": "2, 69",
+    "text": [
+      "Poe Souws"
+    ]
+  },
+  {
+    "ID": "5, 161",
+    "text": [
+      "Fish Jouwnyaw"
+    ]
+  },
+  {
+    "ID": "4, 200",
+    "text": [
+      "Wettews"
+    ]
+  },
+  {
+    "ID": "5, 121",
+    "text": [
+      "Hywuwe Kingdom"
+    ]
+  },
+  {
+    "ID": "5, 122",
+    "text": [
+      "Owdon Wanch"
+    ]
+  },
+  {
+    "ID": "5, 123",
+    "text": [
+      "Owdon Viwwage"
+    ]
+  },
+  {
+    "ID": "5, 124",
+    "text": [
+      "Owdon Woods"
+    ]
+  },
+  {
+    "ID": "5, 125",
+    "text": [
+      "Owdonya Pwovince"
+    ]
+  },
+  {
+    "ID": "5, 126",
+    "text": [
+      "Fawon Pwovince"
+    ]
+  },
+  {
+    "ID": "5, 128",
+    "text": [
+      "Fawon Woods"
+    ]
+  },
+  {
+    "ID": "5, 129",
+    "text": [
+      "Kakawiko Viwwage"
+    ]
+  },
+  {
+    "ID": "5, 130",
+    "text": [
+      "Death Mountain"
+    ]
+  },
+  {
+    "ID": "5, 131",
+    "text": [
+      "Hywuwe Fiewd"
+    ]
+  },
+  {
+    "ID": "5, 132",
+    "text": [
+      "Ewdin Pwovince"
+    ]
+  },
+  {
+    "ID": "5, 133",
+    "text": [
+      "Zowa's Wivew"
+    ]
+  },
+  {
+    "ID": "5, 134",
+    "text": [
+      "Zowa's Domain"
+    ]
+  },
+  {
+    "ID": "5, 135",
+    "text": [
+      "Wake Hywia"
+    ]
+  },
+  {
+    "ID": "5, 136",
+    "text": [
+      "Wanyaywu Pwovince"
+    ]
+  },
+  {
+    "ID": "5, 137",
+    "text": [
+      "Gwaveyawd"
+    ]
+  },
+  {
+    "ID": "5, 138",
+    "text": [
+      "Snyowpeak"
+    ]
+  },
+  {
+    "ID": "5, 139",
+    "text": [
+      "Gewudo Desewt"
+    ]
+  },
+  {
+    "ID": "5, 140",
+    "text": [
+      "Castwe Town"
+    ]
+  },
+  {
+    "ID": "5, 141",
+    "text": [
+      "Sacwed Gwuv"
+    ]
+  },
+  {
+    "ID": "5, 142",
+    "text": [
+      "Hywuwe Castwe"
+    ]
+  },
+  {
+    "ID": "5, 143",
+    "text": [
+      "Hidden Viwwage"
+    ]
+  },
+  {
+    "ID": "5, 144",
+    "text": [
+      "Peak Pwovince"
+    ]
+  },
+  {
+    "ID": "5, 145",
+    "text": [
+      "Desewt Pwovince"
+    ]
+  },
+  {
+    "ID": "5, 41",
+    "text": [
+      "Powtaws"
+    ]
+  },
+  {
+    "ID": "5, 42",
+    "text": [
+      "Powtaws off"
+    ]
+  },
+  {
+    "ID": "5, 36",
+    "text": [
+      "Sewect awea"
+    ]
+  },
+  {
+    "ID": "5, 38",
+    "text": [
+      "Sewect powtaw"
+    ]
+  },
+  {
+    "ID": "5, 40",
+    "text": [
+      "Muv"
+    ]
+  },
+  {
+    "ID": "3, 104",
+    "text": [
+      "Detaiws"
+    ]
+  },
+  {
+    "ID": "4, 12",
+    "text": [
+      "Confiwm"
+    ]
+  },
+  {
+    "ID": "4, 215",
+    "text": [
+      "Tuwn page"
+    ]
+  },
+  {
+    "ID": "4, 8",
+    "text": [
+      "Nyext"
+    ]
+  },
+  {
+    "ID": "6, 172",
+    "text": [
+      "Shiewd Attack"
+    ]
+  },
+  {
+    "ID": "6, 173",
+    "text": [
+      "Ending Bwow"
+    ]
+  },
+  {
+    "ID": "6, 174",
+    "text": [
+      "Back Swice"
+    ]
+  },
+  {
+    "ID": "6, 175",
+    "text": [
+      "Hewm Spwittew"
+    ]
+  },
+  {
+    "ID": "6, 176",
+    "text": [
+      "Mowtaw Dwaw"
+    ]
+  },
+  {
+    "ID": "6, 177",
+    "text": [
+      "Jump Stwike"
+    ]
+  },
+  {
+    "ID": "6, 178",
+    "text": [
+      "Gweat Spin"
+    ]
+  },
+  {
+  "ID": "3, 233",
+  "text": [
+    "Wet go"
+  ]
+  },
+  {
+    "ID": "3, 237",
+    "text": [
+      "Howw"
+    ]
+  },
+  {
+    "ID": "3, 239",
+    "text": [
+      "Entew"
+    ]
+  },
+  {
+    "ID": "3, 242",
+    "text": [
+      "Cwouch"
+    ]
+  },
+  {
+    "ID": "3, 247",
+    "text": [
+      "Sewect"
+    ]
+  },
+  {
+    "ID": "4, 9",
+    "text": [
+      "Wock"
+    ]
+  },
+  {
+    "ID": "3, 250",
+    "text": [
+      "Thwow"
+    ]
+  },
+  {
+    "ID": "3, 251",
+    "text": [
+      "Pwace"
+    ]
+  },
+  {
+    "ID": "3, 252",
+    "text": [
+      "Gwab"
+    ]
+  },
+  {
+    "ID": "4, 2",
+    "text": [
+      "Paddwe"
+    ]
+  },
+  {
+    "ID": "4, 4",
+    "text": [
+      "Wead"
+    ]
+  },
+  {
+    "ID": "4, 5",
+    "text": [
+      "Wook"
+    ]
+  },
+  {
+    "ID": "4, 0",
+    "text": [
+      "Wift"
+    ]
+  },
+  {
+    "ID": "3, 214",
+    "text": [
+      "Woww"
+    ]
+  },
+  {
+    "ID": "3, 215",
+    "text": [
+      "Howd on"
+    ]
+  },
+  {
+    "ID": "4, 8",
+    "text": [
+      "Nyext"
+    ]
+  },
+  {
+    "ID": "4, 11",
+    "text": [
+      "Whoop"
+    ]
+  },
+  {
+    "ID": "4, 12",
+    "text": [
+      "Confiwm"
+    ]
+  },
+  {
+    "ID": "4, 15",
+    "text": [
+      "Bwow"
+    ]
+  },
+  {
+    "ID": "4, 18",
+    "text": [
+      "Finyish"
+    ]
+  },
+  {
+    "ID": "4, 19",
+    "text": [
+      "Set fwee"
+    ]
+  },
+  {
+    "ID": "4, 22",
+    "text": [
+      "Dwop down"
+    ]
+  },
+  {
+    "ID": "4, 25",
+    "text": [
+      "Huwwy"
+    ]
+  },
+  {
+    "ID": "4, 26",
+    "text": [
+      "Puww down"
+    ]
+  },
+  {
+    "ID": "4, 29",
+    "text": [
+      "Shiewd attack"
+    ]
+  },
+  {
+    "ID": "4, 30",
+    "text": [
+      "Wisten"
+    ]
+  },
+  {
+    "ID": "4, 31",
+    "text": [
+      "Dwink"
+    ]
+  },
+  {
+    "ID": "4, 33",
+    "text": [
+      "Cuvw"
+    ]
+  },
+  {
+    "ID": "4, 35",
+    "text": [
+      "Wesist"
+    ]
+  },
+  {
+    "ID": "4, 36",
+    "text": [
+      "Put togethew"
+    ]
+  },
+  {
+    "ID": "4, 39",
+    "text": [
+      "Snyiff"
+    ]
+  },
+  {
+    "ID": "4, 43",
+    "text": [
+      "Woww"
+    ]
+  },
+  {
+    "ID": "4, 44",
+    "text": [
+      "Twy again"
+    ]
+  },
+  {
+    "ID": "4, 47",
+    "text": [
+      "Snyiff"
+    ]
+  },
+  {
+    "ID": "4, 50",
+    "text": [
+      "Thwow"
+    ]
+  },
+  {
+    "ID": "4, 51",
+    "text": [
+      "Wand"
+    ]
+  },
+  {
+    "ID": "4, 53",
+    "text": [
+      "Change wocks"
+    ]
+  },
+  {
+    "ID": "4, 55",
+    "text": [
+      "Puww"
+    ]
+  },
+  {
+    "ID": "4, 56",
+    "text": [
+      "Weew"
+    ]
+  },
+  {
+    "ID": "4, 57",
+    "text": [
+      "Extwact"
+    ]
+  },
+  {
+    "ID": "4, 61",
+    "text": [
+      "Weew fast"
+    ]
+  },
+  {
+    "ID": "4, 62",
+    "text": [
+      "Waise"
+    ]
+  },
+  {
+    "ID": "4, 63",
+    "text": [
+      "Wewease"
+    ]
+  },
+  {
+    "ID": "4, 68",
+    "text": [
+      "Insewt"
+    ]
+  },
+  {
+    "ID": "4, 69",
+    "text": [
+      "Dwaw"
+    ]
+  },
+  {
+    "ID": "4, 70",
+    "text": [
+      "Stwike"
+    ]
+  },
+  {
+    "ID": "4, 73",
+    "text": [
+      "Fwip"
+    ]
+  },
+  {
+    "ID": "4, 120",
+    "text": [
+      "Muv"
+    ]
+  },
+  {
+    "ID": "4, 124",
+    "text": [
+      "Suwvey"
+    ]
+  },
+  {
+    "ID": "4, 121",
+    "text": [
+      "Cowwection"
+    ]
+  },
+  {
+    "ID": "4, 122",
+    "text": [
+      "Awea Map"
+    ]
+  },
+  {
+    "ID": "4, 136",
+    "text": [
+      "Hewp"
+    ]
+  },
+  {
+    "ID": "4, 139",
+    "text": [
+      "Tiwt"
+    ]
+  },
+  {
+    "ID": "4, 140",
+    "text": [
+      "Thwust"
+    ]
+  },
+  {
+    "ID": "4, 141",
+    "text": [
+      "Wotate"
+    ]
+  },
+  {
+    "ID": "4, 142",
+    "text": [
+      "Hewm spwittew"
+    ]
+  },
+  {
+    "ID": "5, 97",
+    "text": [
+      "Cancew"
+    ]
+  },
+  {
+    "ID": "5, 119",
+    "text": [
+      "Pwease muv cwosew to the TV."
+    ]
+  },
+  {
+    "ID": "7, 112",
+    "text": [
+      "Point the Wii Wemote at the scween."
+    ]
+  }
+]

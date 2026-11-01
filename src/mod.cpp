@@ -17,12 +17,14 @@
 #include <string>
 #include <utility>
 #include <vector>
+#include "hooks.hpp"
 
 DEFINE_MOD();
 
 IMPORT_SERVICE(LogService, svc_log);
 IMPORT_SERVICE(MessageService, svc_message);
 IMPORT_SERVICE(ResourceService, svc_resource);
+IMPORT_SERVICE(HookService, svc_hook);
 
 using json = nlohmann::json;
 
@@ -211,6 +213,12 @@ void overrideMessages(const MessageLanguage language) {
 extern "C" {
 MOD_EXPORT ModResult mod_initialize(ModError*) {
     overrideMessages(MESSAGE_LANGUAGE_ENGLISH);
+
+    ModResult result = uwunglish::hooks::initialize();
+    if (result != MOD_OK) {
+        return result;
+    }
+
     return MOD_OK;
 }
 
@@ -220,6 +228,7 @@ MOD_EXPORT ModResult mod_update(ModError*) {
 
 MOD_EXPORT ModResult mod_shutdown(ModError*) {
     overridenMessage.clear();
+    uwunglish::hooks::uninstall();
     return MOD_OK;
 }
 }
