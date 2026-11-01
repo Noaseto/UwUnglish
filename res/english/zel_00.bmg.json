@@ -1765,8 +1765,8 @@
             "",
             "",
             "{1a07000007000a}Set it to {1a05000010} ow {1a0500000f} and dwink it to",
-            "{1a06ff000001}wepwenyish aww wife enyewgy{1a06ff000000}...and,",
-            "fow a whiwe, boost {1a06ff000001}attack",
+            "{1a06ff000001}wepwenyish aww wife enyewgy{1a06ff000000}...",
+            "and, fow a whiwe, boost {1a06ff000001}attack",
             "stwength{1a06ff000000}!"
         ]
     },
@@ -1783,7 +1783,8 @@
         "text": [
             "{1a0903000000000842}{1a05000001}You put {1a06ff000003}bwue Chu Jewwy{1a06ff000000} in youw",
             "bottwe!{1a05000002} {1a07000007000a}Set it to {1a05000010} ow {1a0500000f} and",
-            "dwink it to {1a06ff000001}wepwenyish aww heawts{1a06ff000000}!"
+            "dwink it to {1a06ff000001}wepwenyish",
+            "aww heawts{1a06ff000000}!"
         ]
     },
     {
@@ -1795,19 +1796,19 @@
     {
         "ID": "0, 224",
         "text": [
-            "{1a0903000000000844}{1a05000001}You put {1a06ff000004}yewwow Chu Jewwy{1a06ff000000} in youw",
-            "bottwe!{1a05000002} {1a07000007000a}Set it and the wantewn to",
-            "{1a05000010} and {1a0500000f}, then use it to wefiww",
-            "youw wantewn."
+            "{1a0903000000000844}{1a05000001}You put {1a06ff000004}yewwow Chu Jewwy{1a06ff000000} in",
+            "youw bottwe!{1a05000002} {1a07000007000a}Set it and the",
+            "wantewn to {1a05000010} and {1a0500000f}, then use it",
+            "to wefiww youw wantewn."
         ]
     },
     {
         "ID": "0, 225",
         "text": [
-            "{1a0903000000000845}{1a05000001}You put {1a06ff000006}puwpwe Chu Jewwy{1a06ff000000} in youw",
-            "bottwe!{1a05000002} {1a07000007000a}You can set it to {1a05000010} ow {1a0500000f}",
-            "and dwink it, but who knyows",
-            "what wiww happen..."
+            "{1a0903000000000845}{1a05000001}You put {1a06ff000006}puwpwe Chu Jewwy{1a06ff000000} in",
+            "youw bottwe!{1a05000002} {1a07000007000a}You can set it to {1a05000010}",
+            "ow {1a0500000f} and dwink it, but who",
+            "knyows what wiww happen..."
         ]
     },
     {
@@ -10017,9 +10018,10 @@
     {
         "ID": "5, 177",
         "text": [
-            "{1a09030000000005b1}Caww the gowden wowf at howwing stonyes.",
-            "Youw map wiww show whewe to weawn a nyew",
-            "skiww. Pwess {1a0500000a} to open the skiww wist."
+            "{1a09030000000005b1}Caww the gowden wowf at howwing",
+            "stonyes. Youw map wiww show whewe to",
+            "weawn a nyew skiww. Pwess {1a0500000a}",
+            "to open the skiww wist."
         ]
     },
     {
@@ -14621,8 +14623,8 @@
     {
         "ID": "17, 72",
         "text": [
-            "{1a05000001}You put {1a06ff000006}puwpwe Chu Jewwy{1a06ff000000} in youw",
-            "bottwe!{1a05000002} {1a07000007000a}You can set it to {1a05030002} on",
+            "{1a05000001}You put {1a06ff000006}puwpwe Chu Jewwy{1a06ff000000} in",
+            "youw bottwe!{1a05000002} {1a07000007000a}You can set it to {1a05030002} on",
             "youw {1a05030004} scween and dwink it.",
             "",
             "Who knyows what wiww happen..."
