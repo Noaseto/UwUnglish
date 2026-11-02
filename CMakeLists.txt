@@ -20,9 +20,13 @@ add_subdirectory("${DUSKLIGHT_DIR}/sdk" dusklight-sdk EXCLUDE_FROM_ALL)
 
 configure_file(mod.json.in "${CMAKE_CURRENT_BINARY_DIR}/mod.json" @ONLY NEWLINE_STYLE LF)
 
+set(MOD_SOURCES
+        src/hooks.cpp
+        src/util.cpp
+)
 add_mod(Uwunglish
         FEATURES game fmt          # remove for service/asset-only mods; add webgpu for GfxService
-        SOURCES src/mod.cpp
+        SOURCES src/mod.cpp ${MOD_SOURCES}
         MOD_JSON "${CMAKE_CURRENT_BINARY_DIR}/mod.json"
         RES_DIR res            # mod resources, including icon.png and banner.png
         OVERLAY_DIR overlay    # game file overlays; remove if unused
