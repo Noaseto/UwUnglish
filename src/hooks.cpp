@@ -221,7 +221,6 @@ namespace uwunglish::hooks {
             const uint32_t idFetched = mods::arg<uint32_t>(args, 1); // arg 0 is `this`
             if (!hookMap.contains(idFetched))
                 return;
-            svc_log->info(mod_ctx, fmt::format("id hooked : {}", idFetched).c_str());
 
             const TextSpan o_string = mods::arg<TextSpan>(args, 2);
             if (o_string.buffer == nullptr || o_string.size == 0)
@@ -237,7 +236,6 @@ namespace uwunglish::hooks {
             const uint32_t idFetched = mods::arg<uint32_t>(args, 1); // arg 0 is `this`
             if (!hookMap.contains(idFetched))
                 return;
-            svc_log->info(mod_ctx, fmt::format("id hooked : {}", idFetched).c_str());
 
             const TextSpan o_string = mods::arg<TextSpan>(args, 2);
             if (o_string.buffer == nullptr || o_string.size == 0)
@@ -264,7 +262,7 @@ namespace uwunglish::hooks {
         if (mods::hook::add_post<dMeter2Info_c__GetStringKana>(hookPost_GetStringKana_uwufied) !=
             MOD_OK) {
             svc_log->error(mod_ctx, fmt::format("Failed to add post-hook for {}",
-                                                "dMeter2Info_c__GetStringKanji").c_str());
+                                                "dMeter2Info_c__GetStringKana").c_str());
             return MOD_ERROR;
         }
 
