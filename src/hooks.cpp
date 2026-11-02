@@ -5,20 +5,25 @@
 
 #include "hooks.hpp"
 
-#include <charconv>
-
 #include "util.hpp"
 #include "helpers/string.hpp"
 #include "mods/svc/log.h"
 #include "mods/svc/resource.h"
 
 #include "d/d_meter2_info.h"
+#include "d/d_msg_scrn_light.h"
 
 namespace uwunglish::hooks {
     namespace {
         using json = nlohmann::json;
         DEFINE_HOOK (&dMeter2Info_c::getStringKanji, dMeter2Info_c__GetStringKanji);
         DEFINE_HOOK (&dMeter2Info_c::getStringKana, dMeter2Info_c__GetStringKana);
+        DEFINE_HOOK (&dMeter2Info_c::getString, dMeter2Info_c__GetString);
+
+        // little trick because there are 2 functions called draw
+        using LightDrawFn = void (dMsgScrnLight_c::*)(f32*, f32, f32, f32, f32, f32, f32, JUtility::TColor, JUtility::TColor);
+        DEFINE_HOOK(static_cast<LightDrawFn>(&dMsgScrnLight_c::draw), dMsgScrnLight_c__draw);
+
 
         std::unordered_map<uint32_t, std::string> hookMap = {
             //// Fish journal
@@ -73,6 +78,9 @@ namespace uwunglish::hooks {
             {0x5a1, ""},
             // Letters
             {0x4c8, ""},
+
+            //// Game over
+            /* game over */ {0x381, ""},
 
             //// Minigames
             /* ready */
@@ -245,6 +253,47 @@ namespace uwunglish::hooks {
             std::memcpy(o_string.buffer, text.data(), text.size());
             o_string.buffer[text.size()] = '\0';
         }
+
+        // used for the Game over texts, maybe others too
+        void hookPost_GetString_uwufied(ModContext *, void *args, void *retval, void *userdata) {
+            const uint32_t idFetched = mods::arg<uint32_t>(args, 1); // arg 0 is `this`
+            if (!hookMap.contains(idFetched))
+                return;
+
+            const TextSpan o_string = mods::arg<TextSpan>(args, 2);
+            if (o_string.buffer == nullptr || o_string.size == 0)
+                return;
+            std::string text = hookMap[idFetched];
+
+            std::memcpy(o_string.buffer, text.data(), text.size());
+            o_string.buffer[text.size()] = '\0';
+        }
+    }
+
+    // original Gameover golden shadows
+    f32 originalOffsetX[8] = {-138.0f, -96.0f, -56.0f, -18.0f, 42.0f, 75.0f, 110.0f, 143.0f};
+    // eyeballed offset, maybe I could compute each symbol size but... that works too
+    f32 uwuOffsetX[7] = {-117.0f, -76.0f, -36.0f, 0.0f, 50.0f, 85.0f, 124.0f};
+    constexpr f32 baseWidthCenter = 608.0f / 2.0f;
+    constexpr f32 wideWidthCenter = 640.0f / 2.0f;
+
+    HookAction hookPre_draw(ModContext *, void *args, void *retval, void *userdata) {
+        f32 &xOffset = mods::arg_ref<f32>(args, 2); // arg 0 is `this`
+        if (std::fabs(xOffset - originalOffsetX[7] - baseWidthCenter) < 0.01f ||
+            std::fabs(xOffset - originalOffsetX[7] - wideWidthCenter) < 0.01f) {
+            return HOOK_SKIP_ORIGINAL;
+        }
+        for (size_t i = 0; i < 7; i++) {
+            if (std::fabs(xOffset - originalOffsetX[i] - baseWidthCenter) < 0.01f) {
+                xOffset = uwuOffsetX[i] + baseWidthCenter;
+                break;
+            }
+            if (std::fabs(xOffset - originalOffsetX[i] - wideWidthCenter) < 0.01f){
+                xOffset = uwuOffsetX[i] + wideWidthCenter;
+                break;
+            }
+        }
+        return HOOK_CONTINUE;
     }
 
     ModResult initialize() {
@@ -263,6 +312,18 @@ namespace uwunglish::hooks {
             MOD_OK) {
             svc_log->error(mod_ctx, fmt::format("Failed to add post-hook for {}",
                                                 "dMeter2Info_c__GetStringKana").c_str());
+            return MOD_ERROR;
+        }
+        if (mods::hook::add_post<dMeter2Info_c__GetString>(hookPost_GetString_uwufied) !=
+            MOD_OK) {
+            svc_log->error(mod_ctx, fmt::format("Failed to add post-hook for {}",
+                                                "dMeter2Info_c__GetString").c_str());
+            return MOD_ERROR;
+        }
+        if (mods::hook::add_pre<dMsgScrnLight_c__draw>(hookPre_draw) !=
+            MOD_OK) {
+            svc_log->error(mod_ctx, fmt::format("Failed to add post-hook for {}",
+                                                "dMsgScrnLight_c__draw").c_str());
             return MOD_ERROR;
         }
 
