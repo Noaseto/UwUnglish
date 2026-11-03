@@ -146,7 +146,8 @@ MOD_EXPORT ModResult mod_shutdown(ModError*) {
     overridenMessage.clear();
     uwunglish::hooks::uninstall();
 
-    if (svc_te_localization && s_language != 0) svc_te_localization->remove_language(mod_ctx, s_language);
+    if (svc_te_localization && s_language != 0)
+        svc_te_localization->remove_language(mod_ctx, s_language);
     s_language = 0;
 
     return MOD_OK;
