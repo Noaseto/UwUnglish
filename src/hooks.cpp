@@ -12,6 +12,7 @@
 
 #include "d/d_meter2_info.h"
 #include "d/d_msg_scrn_light.h"
+#include "d/d_msg_object.h"
 
 namespace uwunglish::hooks {
 namespace {
@@ -23,6 +24,15 @@ DEFINE_HOOK(&dMeter2Info_c::getStringKana, dMeter2Info_c__GetStringKana);
 
 DEFINE_HOOK(&dMeter2Info_c::getString, dMeter2Info_c__GetString);
 
+// Portal names are retrieved via a pointer inside the bmg, to rebuild the string
+/*
+ * "Want to twavew to {1a06ff000001}{1a0500002b}{1a06ff000000}?"
+ * 1a06ff000001 : red
+ * 1a0500002b : portal name
+ * 1a06ff000000 : white
+ */
+DEFINE_HOOK(&dMsgObject_c::getPortalName, dMsgObject_c__GetPortalName);
+
 // little trick because there are 2 functions called draw
 using LightDrawFn = void (dMsgScrnLight_c::*)(f32*, f32, f32, f32, f32, f32, f32, JUtility::TColor,
     JUtility::TColor);
@@ -30,12 +40,6 @@ DEFINE_HOOK(static_cast<LightDrawFn>(&dMsgScrnLight_c::draw), dMsgScrnLight_c__d
 
 
 std::unordered_map<uint32_t, std::string> hookMap = {
-    //// Fish journal
-    // fish names
-    {0x59E, ""}, {0x59D, ""}, {0x59B, ""}, {0x599, ""}, {0x59A, ""}, {0x59C, ""},
-    // Largest, number caught
-    {0x59F, ""}, {0x5A0, ""},
-
     // Plumm mini-game : score
     {0x53e, ""},
 
@@ -72,6 +76,10 @@ std::unordered_map<uint32_t, std::string> hookMap = {
     {0x245, ""},
     // Fish journal
     {0x5a1, ""},
+    // fish names
+    {0x59E, ""}, {0x59D, ""}, {0x59B, ""}, {0x599, ""}, {0x59A, ""}, {0x59C, ""},
+    // Largest, number caught
+    {0x59F, ""}, {0x5A0, ""},
     // Letters
     {0x4c8, ""},
 
@@ -291,6 +299,19 @@ void hookPost_GetString_uwufied(ModContext*, void* args, void* retval, void* use
     std::memcpy(o_string.buffer, text.data(), text.size());
     o_string.buffer[text.size()] = '\0';
 }
+
+// when confirming the warping action
+void hookPost_GetPortalName_uwufied(ModContext*, void* args, void* retval, void* userdata) {
+    auto* self = mods::arg<dMsgObject_c*>(args, 0); // arg 0 is `this`
+    // portalID is set in the void dMenu_Fmap_c::portal_warp_map_proc() which eventually calls
+    // the getPortalName
+    const uint32_t id = self->getPortalMessageID();
+    // min and max id for the 15 portals
+    if (id < 0x5cd || id > 0x5db)
+        return;
+
+    const std::string& text = hookMap[id];
+    *static_cast<const char**>(retval) = text.c_str();
 }
 
 // original Gameover golden shadows
@@ -318,6 +339,7 @@ HookAction hookPre_draw(ModContext*, void* args, void* retval, void* userdata) {
     }
     return HOOK_CONTINUE;
 }
+}
 
 ModResult initialize() {
     ModResult result = loadFile("english/hookTexts.json", hookMap);
@@ -343,6 +365,12 @@ ModResult initialize() {
             "dMeter2Info_c__GetString").c_str());
         return MOD_ERROR;
     }
+    if (mods::hook::add_post<dMsgObject_c__GetPortalName>(hookPost_GetPortalName_uwufied) !=
+        MOD_OK) {
+        svc_log->error(mod_ctx, fmt::format("Failed to add post-hook for {}",
+            "dMsgObject_c__GetPortalName").c_str());
+        return MOD_ERROR;
+    }
     if (mods::hook::add_pre<dMsgScrnLight_c__draw>(hookPre_draw) !=
         MOD_OK) {
         svc_log->error(mod_ctx, fmt::format("Failed to add pre-hook for {}",
@@ -357,6 +385,7 @@ ModResult uninstall() {
     mods::hook::uninstall<dMeter2Info_c__GetStringKanji>(svc_hook);
     mods::hook::uninstall<dMeter2Info_c__GetStringKana>(svc_hook);
     mods::hook::uninstall<dMeter2Info_c__GetString>(svc_hook);
+    mods::hook::uninstall<dMsgObject_c__GetPortalName>(svc_hook);
     mods::hook::uninstall<dMsgScrnLight_c__draw>(svc_hook);
     return MOD_OK;
 }
