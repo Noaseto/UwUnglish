@@ -14,8 +14,8 @@ hooks service.
 
 for example:
 
-- This is terrible, it is a game over.
-- This is tewwibwe, it is a game ovw.
+- Oh no, this is terrible, it is a game over.
+- Oh nyo, this is tewwibwe, it is a game ovw.
 
 This is all done with variation of [this script](./tools/uwu-fier.py)
 
