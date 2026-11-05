@@ -72,6 +72,8 @@
   "graphics.dynamic_shadows.light_source_shadows": "Wight Souwce Shadows",
   "graphics.dynamic_shadows.light_shadow_range": "Wight Shadow Wange",
   "graphics.dynamic_shadows.light_shadow_resolution": "Wight Shadow Wesowution",
+  "graphics.dynamic_shadows.buffer_usage": "GPU Buffew Usage",
+  "graphics.dynamic_shadows.buffer_lights": "Wights",
   "graphics.realistic_water": "Weawistic Watew",
   "graphics.realistic_water.reflections": "Wefwections",
   "graphics.realistic_water.sky_only": "Sky Onwy",
