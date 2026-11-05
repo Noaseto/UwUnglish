@@ -158,6 +158,7 @@ std::unordered_map<uint32_t, std::string> hookMap = {
 
     //// action strings (from getActionString)
     // roll, throw, etc...
+    {891, ""},   // Move (in dungeon'a map)
     {0x3d6, ""}, // Roll
     {981, ""},   // clear
     {0x368, ""}, // details
