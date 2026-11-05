@@ -922,9 +922,9 @@
     "ID": "0, 135",
     "text": [
       "{1a05000001}You got a {1a06ff000001}Heawt Containyew{1a06ff000000}!{1a05000002}",
-      "{1a07000007000a}Youw wife enyewgy has incweased",
-      "by {1a06ff000001}onye{1a06ff000000} and been {1a06ff000001}fuwwy",
-      "wepwenyished{1a06ff000000}!"
+      "{1a07000007000a}Youw wife enyewgy has",
+      "incweased by {1a06ff000001}onye{1a06ff000000} and been",
+      "{1a06ff000001}fuwwy wepwenyished{1a06ff000000}!"
     ]
   },
   {
@@ -1073,24 +1073,24 @@
     "ID": "0, 156",
     "text": [
       "{1a05000001}You got a {1a06ff000001}Piece of Heawt{1a06ff000000}!{1a05000002}",
-      "{1a07000007000a}Cowwect {1a06ff000001}3 mowe{1a06ff000000} fow anyothew fuww",
-      "Heawt Containyew."
+      "{1a07000007000a}Cowwect {1a06ff000001}3 mowe{1a06ff000000} fow anyothew",
+      "fuww Heawt Containyew."
     ]
   },
   {
     "ID": "0, 157",
     "text": [
       "{1a05000001}You got a {1a06ff000001}Piece of Heawt{1a06ff000000}!{1a05000002}",
-      "{1a07000007000a}Cowwect {1a06ff000001}2 mowe{1a06ff000000} fow anyothew fuww",
-      "Heawt Containyew."
+      "{1a07000007000a}Cowwect {1a06ff000001}2 mowe{1a06ff000000} fow anyothew",
+      "fuww Heawt Containyew."
     ]
   },
   {
     "ID": "0, 158",
     "text": [
       "{1a05000001}You got a {1a06ff000001}Piece of Heawt{1a06ff000000}!{1a05000002}",
-      "{1a07000007000a}Cowwect {1a06ff000001}1 mowe{1a06ff000000} fow anyothew fuww",
-      "Heawt Containyew."
+      "{1a07000007000a}Cowwect {1a06ff000001}1 mowe{1a06ff000000} fow anyothew",
+      "fuww Heawt Containyew."
     ]
   },
   {
@@ -1131,9 +1131,9 @@
     "ID": "0, 164",
     "text": [
       "{1a0903000000000808}{1a05000001}You got the {1a06ff000001}wooden swowd{1a06ff000000}!{1a05000002}",
-      "{1a07000007000a}Wusw wetuwnyed it aftew honying it",
-      "fow you. It's easy to use: just",
-      "pwess {1a0500000b}!"
+      "{1a07000007000a}Wusw wetuwnyed it aftew",
+      "honying it fow you. It's easy",
+      "to use: just pwess {1a0500000b}!"
     ]
   },
   {
@@ -1147,8 +1147,8 @@
       "{1a05000010} ow {1a0500000f}. Whiwe howding the",
       "button, use {1a0500000e} to wock on to",
       "pwaces whewe you see {1a05000024}.",
-      "Wock on to as manyy as {1a06ff000001}5{1a06ff000000} tawgets",
-      "at once!"
+      "Wock on to as manyy as {1a06ff000001}5{1a06ff000000}",
+      "tawgets at once!"
     ]
   },
   {
@@ -1273,12 +1273,12 @@
       "bobbew. Set it to {1a05000010} ow {1a0500000f} on the",
       "{1a05030009} Items scween to use it.",
       "Face the watew and use it to",
-      "cast. Pwess and howd {1a0500000c}{1a05000017} to puww",
-      "the winye in when you get a bite.",
-      "",
+      "cast. Pwess and howd {1a0500000c}{1a05000017} to",
+      "puww the winye in when you get",
+      "a bite.",
       "You can catch fish without bait,",
-      "but you'ww catch a wawgew vawiety",
-      "of fish with bait."
+      "but you'ww catch a wawgew",
+      "vawiety of fish with bait."
     ]
   },
   {
@@ -1404,8 +1404,8 @@
     "ID": "0, 204",
     "text": [
       "{1a0903000000000830}{1a05000001}You put {1a06ff000001}watew{1a06ff000000} in youw bottwe!{1a05000002}",
-      "{1a07000007000a}Use it with {1a05000010} ow {1a0500000f} to spwinkwe it",
-      "on vawious things."
+      "{1a07000007000a}Use it with {1a05000010} ow {1a0500000f} to spwinkwe",
+      "it on vawious things."
     ]
   },
   {
@@ -1739,9 +1739,9 @@
       "{1a07000007000a}This is essentiaw fow wighting",
       "youw wantewn.",
       "",
-      "Set youw oiw and wantewn to {1a05000010}",
-      "and {1a0500000f}, then use the oiw to fiww",
-      "the wantewn."
+      "Set youw oiw and wantewn to",
+      "{1a05000010} and {1a0500000f}, then use the oiw",
+      "to fiww the wantewn."
     ]
   },
   {
@@ -1751,13 +1751,14 @@
       "{1a07000007000a}Fish wuv these and they'we awso",
       "edibwe and fuww of nyutwients.",
       "",
-      "Set youw wod and the wawva to {1a05000010}",
-      "and {1a0500000f} and use the wawva to bait",
-      "youw wod.",
+      "Set youw wod and the wawva",
+      "to {1a05000010} and {1a0500000f} and use the wawva",
+      "to bait youw wod.",
       "",
-      "If you use them without the wod ",
-      "equipped, you wiww eat them and",
-      "wepwenyish {1a06ff000001}1/4 heawt{1a06ff000000} pew wawva!"
+      "If you use them without the",
+      "wod equipped, you wiww eat",
+      "them and wepwenyish {1a06ff000001}1/4 heawt{1a06ff000000}",
+      "pew wawva!"
     ]
   },
   {
@@ -1785,10 +1786,10 @@
       "{1a07000007000a}It's cwuciaw to cowwecting the",
       "Teaws of Wight.",
       "",
-      "If you fiww it with {1a06ff000001}Teaws of Wight{1a06ff000000},",
-      "you wiww be abwe to cut thwough",
-      "the twiwight and wetuwn nyowmaw",
-      "wight to this pwace.",
+      "If you fiww it with {1a06ff000001}Teaws of",
+      "Wight{1a06ff000000}, you wiww be abwe to cut",
+      "thwough the twiwight and wetuwn",
+      "nyowmaw wight to this pwace.",
       "To see these eviws that howd the",
       "{1a06ff000001}Teaws of Wight{1a06ff000000}, use youw {1a06ff000001}{1a0500000f}",
       "senses{1a06ff000000}."
@@ -1801,10 +1802,10 @@
       "{1a07000007000a}It's cwuciaw to cowwecting the",
       "Teaws of Wight.",
       "",
-      "If you fiww it with {1a06ff000001}Teaws of Wight{1a06ff000000},",
-      "you wiww be abwe to cut thwough",
-      "the twiwight and wetuwn nyowmaw",
-      "wight to this pwace.",
+      "If you fiww it with {1a06ff000001}Teaws of",
+      "Wight{1a06ff000000}, you wiww be abwe to cut",
+      "thwough the twiwight and wetuwn",
+      "nyowmaw wight to this pwace.",
       "To see these eviws that howd the",
       "{1a06ff000001}Teaws of Wight{1a06ff000000}, use youw {1a06ff000001}{1a0500000f}",
       "senses{1a06ff000000}."
@@ -1817,10 +1818,10 @@
       "{1a07000007000a}It's cwuciaw to cowwecting the",
       "Teaws of Wight.",
       "",
-      "If you fiww it with {1a06ff000001}Teaws of Wight{1a06ff000000},",
-      "you wiww be abwe to cut thwough",
-      "the twiwight and wetuwn nyowmaw",
-      "wight to this pwace.",
+      "If you fiww it with {1a06ff000001}Teaws of",
+      "Wight{1a06ff000000}, you wiww be abwe to cut",
+      "thwough the twiwight and wetuwn",
+      "nyowmaw wight to this pwace.",
       "To see these eviws that howd the",
       "{1a06ff000001}Teaws of Wight{1a06ff000000}, use youw {1a06ff000001}{1a0500000f}",
       "senses{1a06ff000000}."
@@ -2158,8 +2159,9 @@
     "ID": "1, 93",
     "text": [
       "{1a05000001}You got the {1a06ff000001}wantewn{1a06ff000000} back!{1a05000002}",
-      "{1a07000007000a}It wan out of oiw whiwe you wewe",
-      "fowwowing the monkey awound..."
+      "{1a07000007000a}It wan out of oiw whiwe you",
+      "wewe fowwowing the monkey",
+      "awound..."
     ]
   },
   {
@@ -3169,8 +3171,8 @@
     "text": [
       "{1a0903000000000c4a}A fwiend you made duwing youw twavews.",
       "",
-      "{1a0506000a}Caww hew with {1a05000010} ow {1a0500000f} and she wiww wawp",
-      "{1a0506000b}you outside the dungeon."
+      "{1a0506000a}Caww hew with {1a05000010} ow {1a0500000f} and she wiww",
+      "{1a0506000b}wawp you outside the dungeon."
     ]
   },
   {
@@ -3269,8 +3271,8 @@
     "text": [
       "{1a0903000000000c58}A fwiend you made duwing youw twavews.",
       "",
-      "{1a0506000a}Caww hew with {1a05000010} ow {1a0500000f} and she wiww wawp",
-      "{1a0506000b}you outside the dungeon. "
+      "{1a0506000a}Caww hew with {1a05000010} ow {1a0500000f} and she wiww",
+      "{1a0506000b}wawp you outside the dungeon."
     ]
   },
   {
@@ -3360,6 +3362,7 @@
   },
   {
     "ID": "2, 168",
+    "hexa": "0x2a8",
     "text": [
       "{1a0903000000000c68}It's said that this Gowon tweasuwe was weft",
       "behind by a hewo of the past.",
@@ -3373,9 +3376,9 @@
     "ID": "2, 169",
     "text": [
       "{1a0903000000000c69}A chain with a cwaw at onye end.",
-      "{1a0506000a}Howd it with {1a05000010} ow {1a0500000f}, aim at pwaces whewe",
-      "{1a0506000b}you see {1a05000024} with {1a05000013}, and wewease the ",
-      "{1a0506000b}button to fwy to that pwace.",
+      "{1a0506000a}Howd it with {1a05000010} ow {1a0500000f}, aim at pwaces",
+      "{1a0506000b}whewe you see {1a05000024} with {1a05000013}, and wewease",
+      "{1a0506000b}the button to fwy to that pwace.",
       "{1a0506000a}Use {1a0500001c} to muv up and down when",
       "{1a0506000b}hanging fwom the ceiwing."
     ]
@@ -3415,7 +3418,9 @@
   {
     "ID": "2, 173",
     "text": [
-      "{1a0903000000000c6d}An essentiaw item that wights the dawknyess.",
+      "{1a0903000000000c6d}An essentiaw item that wights the",
+      "dawknyess.",
+      "",
       "{1a0506000a}Wight it with {1a05000010} ow {1a0500000f} and pwess {1a0500000a} whiwe",
       "{1a0506000b}nyot moving to put it out.",
       "{1a0506000a}Pwess the button it's set to whiwe it's wit",
@@ -3450,7 +3455,8 @@
       "{1a0506000b}wewease to shoot.",
       "{1a0506000a}If you shoot whiwe tawgeting with {1a0500000d}, youw",
       "{1a0506000b}shot wiww be mowe accuwate.",
-      "{1a0506000a}You can howd a max of{1a06ff000001} 50 {1a06ff000000}pewwets (seeds). "
+      "{1a0506000a}You can howd a max of{1a06ff000001} 50{1a06ff000000}",
+      "{1a0506000b}pewwets (seeds)."
     ]
   },
   {
@@ -3635,9 +3641,9 @@
     "text": [
       "{1a0903000000000c8b}Oiw fow youw wantewn.",
       "",
-      "{1a0506000a}When you want to wefiww youw wantewn, set",
-      "{1a0506000b}it and the oiw to {1a05000010} and {1a0500000f}, then use the",
-      "{1a0506000b}oiw."
+      "{1a0506000a}When you want to wefiww youw wantewn,",
+      "{1a0506000b}set it and the oiw to {1a05000010} and {1a0500000f}, then",
+      "{1a0506000b}use the oiw."
     ]
   },
   {
@@ -7949,8 +7955,8 @@
   {
     "ID": "11, 211",
     "text": [
-      "Nyow, nyow, Iwia. Thewe's nyo nyeed to",
-      "get so hot with him...{1a07000004001e}"
+      "Nyow, nyow, Iwia. Thewe's nyo nyeed",
+      "to get so hot with him...{1a07000004001e}"
     ]
   },
   {
@@ -8022,8 +8028,8 @@
   {
     "ID": "11, 236",
     "text": [
-      "So you stiww pwefew youw mastew uvw",
-      "me, huh, {1a05000022}?"
+      "So you stiww pwefew youw mastew",
+      "uvw me, huh, {1a05000022}?"
     ]
   },
   {
@@ -10173,8 +10179,9 @@
     "ID": "12, 170",
     "text": [
       "They've gotta be hidin' somewhewe,",
-      "waitin' fow theiw hewpwess wittwe pwey",
-      "to come out! Then they'ww FEAST!"
+      "waitin' fow theiw hewpwess wittwe",
+      "pwey to come out! Then",
+      "they'ww FEAST!"
     ]
   },
   {
@@ -10186,8 +10193,8 @@
   {
     "ID": "12, 172",
     "text": [
-      "We awe safe as wong as we wemain in",
-      "hewe, chiwd. Be at ease."
+      "We awe safe as wong as we wemain",
+      "in hewe, chiwd. Be at ease."
     ]
   },
   {
@@ -10534,23 +10541,24 @@
     "ID": "12, 221",
     "text": [
       "In anyy case, you must take these",
-      "chiwdwen and fwee this viwwage befowe",
-      "mowe nyightmawes descend."
+      "chiwdwen and fwee this viwwage",
+      "befowe mowe nyightmawes descend."
     ]
   },
   {
     "ID": "12, 222",
     "text": [
-      "I, of couwse, cannyot weave my viwwage",
-      "in such a time. Thewe is nyo tewwing",
-      "what may happen to us hewe..."
+      "I, of couwse, cannyot weave my",
+      "viwwage in such a time. Thewe is",
+      "nyo tewwing what may happen",
+      "to us hewe..."
     ]
   },
   {
     "ID": "12, 223",
     "text": [
-      "...But it is my job to twy to coax the",
-      "Gowons back fwom theiw wecent",
+      "...But it is my job to twy to coax",
+      "the Gowons back fwom theiw wecent",
       "change of heawt."
     ]
   },
@@ -10661,10 +10669,10 @@
   {
     "ID": "12, 250",
     "text": [
-      "{1a06ff000001}Nyowth{1a06ff000000} of hewe, acwoss the pwain and",
-      "past the gweat stonye bwidge, in the",
-      "wands guawded by the {1a06ff000001}spiwit",
-      "Wanyaywu..."
+      "{1a06ff000001}Nyowth{1a06ff000000} of hewe, acwoss the pwain",
+      "and past the gweat stonye bwidge, in",
+      "the wands guawded by the",
+      "{1a06ff000001}spiwit Wanyaywu..."
     ]
   },
   {
@@ -11159,8 +11167,9 @@
   {
     "ID": "13, 90",
     "text": [
-      "Mowe couwage in that giww than in aww",
-      "the sowdiews of Hywuwe, fow suwe!"
+      "Mowe couwage in that giww than in",
+      "aww the sowdiews of Hywuwe,",
+      "fow suwe!"
     ]
   },
   {
@@ -11208,8 +11217,8 @@
   {
     "ID": "13, 97",
     "text": [
-      "I wiww nyevew in aww my wife fowget youw",
-      "kindnyess, {1a05000000}."
+      "I wiww nyevew in aww my wife fowget",
+      "youw kindnyess, {1a05000000}."
     ]
   },
   {
@@ -11892,8 +11901,8 @@
     "ID": "13, 155",
     "text": [
       "Ouw twibe wiww take back theiw",
-      "weawm...and sweet dawknyess wiww bwot",
-      "out this hawsh wight!"
+      "weawm...and sweet dawknyess wiww",
+      "bwot out this hawsh wight!"
     ]
   },
   {
@@ -12762,8 +12771,8 @@
   {
     "ID": "14, 6",
     "text": [
-      "As a wuwew who fwed hew peopwe, I'm",
-      "hawdwy quawified to fowgive you."
+      "As a wuwew who fwed hew peopwe,",
+      "I'm hawdwy quawified to fowgive you."
     ]
   },
   {
@@ -13213,7 +13222,8 @@
     "text": [
       "It was pwaced on you by the magic",
       "of {1a06ff000001}my god{1a06ff000000}! The {1a06ff000001}powew{1a06ff000000} you hewd as",
-      "{1a06ff000001}weadew of the Twiwi{1a06ff000000} wiww nyevew wetuwn!"
+      "{1a06ff000001}weadew of the Twiwi{1a06ff000000} wiww nyevew",
+      "wetuwn!"
     ]
   },
   {
@@ -13693,8 +13703,8 @@
   {
     "ID": "14, 143",
     "text": [
-      "The histowy of wight and shadow wiww",
-      "be wwitten in bwood!"
+      "The histowy of wight and shadow",
+      "wiww be wwitten in bwood!"
     ]
   },
   {
@@ -15679,7 +15689,7 @@
     "ID": "6, 180",
     "text": [
       "{1a0903000000000ec3}When youw enyemy is down, quickwy",
-      " {1a0500000d}{1a06ff000001}-tawget {1a06ff000000}and pwess {1a0500000a} to dewivew the",
+      "{1a0500000d}{1a06ff000001}-tawget {1a06ff000000}and pwess {1a0500000a} to dewivew the",
       "mowtaw stwike."
     ]
   },
@@ -18037,7 +18047,8 @@
   {
     "ID": "19, 94",
     "text": [
-      "The End{1a0700000406ea}"
+      "The End",
+      "UwUnglish by Noaseto{1a0700000406ea}"
     ]
   }
 ]
