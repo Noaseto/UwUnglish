@@ -1,64 +1,33 @@
-# Dusklight Mod Template
+A mod by human for human, I do not like the usage of generative AIs. Also, we stand for Trans people right :3
 
-A standalone template for [Dusklight](https://github.com/TwilitRealm/dusklight) mods.
+# Uwunglish
 
-See the [Dusklight modding documentation](https://github.com/TwilitRealm/dusklight/blob/main/docs/modding.md)
-for the full mod API: services, hooking game functions, asset overlays, and more.
+This is a mod for dusklight, and can be found on its mod browser too.
 
-## Quick start
+This mod replaces the english language of the game to it's UwU-fied version of it.
+To do so the 3 following rules have been applied to all the texts of the game thanks to the dusklight flow service and
+hooks service.
 
-1. Click "Use this template" to create a new repository for your mod.
-2. Edit `mod.json.in`: set your mod's `id` (reverse-DNS style, e.g. `com.example.my_mod`),
-   `name`, `author`, and `description`.
-3. Rename the target in `CMakeLists.txt` (`add_mod(my_mod ...)`) (this names the `.dusk` file).
-4. Write your mod in `src/mod.cpp`.
-5. Build locally:
-   ```sh
-   cmake -B build
-   cmake --build build
-   ```
+- L and R -> W
+- n + vowel -> ny + vowel
+- ove -> uv
 
-The result is `build/mods/<name>.dusk`. Copy it into the game's mods folder to try it:
+for example:
 
-- Windows: `%APPDATA%\TwilitRealm\Dusklight\mods`
-- Linux: `~/.local/share/TwilitRealm/Dusklight/mods`
-- macOS: `~/Library/Application Support/TwilitRealm/Dusklight/mods`
+- This is terrible, it is a game over.
+- This is tewwibwe, it is a game ovw.
 
-During development, rebuild, copy and click **Reload** in the in-game mod manager to pick up changes.
+This is all done with variation of [this script](./tools/uwu-fier.py)
 
-> [!IMPORTANT]
-> A mod built locally will only be valid for your own platform, and shouldn't be distributed.
-> The repository will build a [cross-platform bundle](#github-actions) for distribution. See below.
+# Please note
 
-## Updating to a new Dusklight version
+I am not closed to uwufy other languages (PAL ones to start with) but I was not sure if the 3 rules also apply to these
+languages (looking at french, spanish, german and italian). If so, maybe the mod name can be revisited to Uwufier or
+something.
 
-Change the `DUSKLIGHT_VERSION` line in `CMakeLists.txt` to the new release tag (or commit hash) and reconfigure. The
-pinned version is fetched into `dusklight/` automatically. Use the `dusklight/` checkout to browse game code, headers
-and mod services.
+# Other mods compatibility
 
-> [!IMPORTANT]
-> The Dusklight checkout is for **reference only**. Mods use
-> [services](https://github.com/TwilitRealm/dusklight/blob/main/docs/modding.md#built-in-services) and
-> [hooks](https://github.com/TwilitRealm/dusklight/blob/main/docs/modding.md#hooking-game-functions) to interact with
-> game code.
+## Twilit Essentials
 
-## GitHub Actions
-
-The included GitHub Actions workflow builds the mod for the following platforms:
-- Windows (AMD64 & ARM64)
-- macOS (Apple Silicon & Intel)
-- iOS (Apple Silicon)
-- Linux (x86_64 & aarch64)
-- Android (aarch64)
-
-It then merges the per-platform builds into a single `.dusk` supporting all platforms. (Artifact `mod-combined`) 
-
-Pushing a tag to the repository creates a GitHub release with the combined bundle.
-
-## For Dusklight developers
-
-Point the build at an existing checkout instead of fetching one:
-
-```sh
-cmake -B build -DDUSKLIGHT_DIR=~/path/to/dusklight
-```
+The [localization service](https://github.com/F1mmel/te-service-examples/tree/main/src/localization) is implemented and
+Uwunglish will be displayed on the language selector, if no traductions are found, a fallback to english is applied.
