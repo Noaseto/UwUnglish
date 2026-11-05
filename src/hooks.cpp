@@ -13,6 +13,7 @@
 #include "d/d_meter2_info.h"
 #include "d/d_msg_scrn_light.h"
 #include "d/d_msg_object.h"
+#include "d/d_msg_unit.h"
 
 namespace uwunglish::hooks {
 namespace {
@@ -32,6 +33,9 @@ DEFINE_HOOK(&dMeter2Info_c::getString, dMeter2Info_c__GetString);
  * 1a06ff000000 : white
  */
 DEFINE_HOOK(&dMsgObject_c::getPortalName, dMsgObject_c__GetPortalName);
+
+// override the max arrow tag
+DEFINE_HOOK(&dMsgUnit_c::setTag, dMsgOUnit_c__setTag);
 
 // little trick because there are 2 functions called draw
 using LightDrawFn = void (dMsgScrnLight_c::*)(f32*, f32, f32, f32, f32, f32, f32, JUtility::TColor,
@@ -339,6 +343,20 @@ HookAction hookPre_draw(ModContext*, void* args, void* retval, void* userdata) {
     }
     return HOOK_CONTINUE;
 }
+
+// the hook works, but I don't see where the buffer is set with the "30|60|100 arrows" value :/
+void hookPost_setTag(ModContext*, void* args, void* retval, void* userdata) {
+    char* buffer = mods::arg_ref<char*>(args, 3);
+    if (buffer == nullptr)
+        return;
+
+    for (char* p = buffer; *p != '\0'; p++) {
+        if ((*p == 'a' || *p == 'A') && std::strncmp(p + 1, "rrow", 4) == 0) {
+            std::memcpy(p + 1, "wwow", 4);
+            p += 4;
+        }
+    }
+}
 }
 
 ModResult initialize() {
@@ -377,6 +395,12 @@ ModResult initialize() {
             "dMsgScrnLight_c__draw").c_str());
         return MOD_ERROR;
     }
+    if (mods::hook::add_post<dMsgOUnit_c__setTag>(hookPost_setTag) !=
+        MOD_OK) {
+        svc_log->error(mod_ctx, fmt::format("Failed to add pre-hook for {}",
+            "dMsgScrnLight_c__draw").c_str());
+        return MOD_ERROR;
+    }
 
     return MOD_OK;
 }
@@ -387,6 +411,7 @@ ModResult uninstall() {
     mods::hook::uninstall<dMeter2Info_c__GetString>(svc_hook);
     mods::hook::uninstall<dMsgObject_c__GetPortalName>(svc_hook);
     mods::hook::uninstall<dMsgScrnLight_c__draw>(svc_hook);
+    mods::hook::uninstall<dMsgOUnit_c__setTag>(svc_hook);
     return MOD_OK;
 }
 }
