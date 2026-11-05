@@ -36,6 +36,6 @@
   "combat.bullet_time.enabled.help": "Aim the bow mid-aiw to swow down time. Dwains staminya and ends when you wand, pwess {btn:A} ow wun out.",
   "combat.puppet_zelda": "Puppet Zewda",
   "combat.puppet_zelda.enabled.help": "Gives Puppet Zewda a fixed, weawnyabwe attack pattewn.",
-  "combat.puppet_zelda.always_shortest_attacks_sword_dive": "Awways showtest attacks (Swowd Dive onwy)",
+  "combat.puppet_zelda.always_shortest_attacks_sword_dive": "Awways showtest attacks",
   "combat.puppet_zelda.always_shortest_attacks_sword_dive.help": "Puppet Zewda onwy uses Swowd Dive."
 }
