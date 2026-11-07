@@ -23,6 +23,7 @@
 
 #include "hooks.hpp"
 #include "util.hpp"
+#include "modUtil.hpp"
 
 DEFINE_MOD();
 
@@ -142,7 +143,7 @@ void overrideMessages(bool isLinkleModActive) {
 
 extern "C" {
 MOD_EXPORT ModResult mod_initialize(ModError*) {
-    isLinkleModActive = uwunglish::util::is_mod_enabled("com.ditrey.linkle");
+    isLinkleModActive = uwunglish::modUtil::is_mod_enabled("com.ditrey.linkle");
     overrideMessages(isLinkleModActive);
 
     ModResult result = uwunglish::hooks::initialize(isLinkleModActive);
@@ -163,7 +164,7 @@ MOD_EXPORT ModResult mod_initialize(ModError*) {
 }
 
 MOD_EXPORT ModResult mod_update(ModError*) {
-    bool isEnabled = uwunglish::util::is_mod_enabled("com.ditrey.linkle");
+    bool isEnabled = uwunglish::modUtil::is_mod_enabled("com.ditrey.linkle");
     if (isLinkleModActive != isEnabled) {
         isLinkleModActive = isEnabled;
         zelBmgMap.clear();

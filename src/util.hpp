@@ -20,13 +20,4 @@ uint16_t computeId(uint8_t leftId, uint8_t rightId);
  * @return a cp1252 encoded string
  */
 std::string UTF8ToCP1252(const std::string& utf8String);
-
-/**
- * Uses the hook service in a hacky way to get the method that retrieves a config var and
- * applies it to the provided mod id.
- *
- * @param id a mod id
- * @return true if the mod is active, else false
- */
-bool is_mod_enabled(std::string_view id);
 }
