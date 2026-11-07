@@ -360,10 +360,19 @@ void hookPost_setTag(ModContext*, void* args, void* retval, void* userdata) {
 }
 }
 
-ModResult initialize() {
-    ModResult result = loadFile("english/hookTexts.json", hookMap);
+ModResult initialize(bool isLinkleModActive) {
+    ModResult result;
+
+    result = loadFile("english/hookTexts.json", hookMap);
     if (result != MOD_OK) {
         return result;
+    }
+
+    if (isLinkleModActive) {
+        result = loadFile("linkle/english/hookTexts.json", hookMap);
+        if (result != MOD_OK) {
+            return result;
+        }
     }
 
     if (mods::hook::add_post<dMeter2Info_c__GetStringKanji>(hookPost_GetStringKanji_uwufied) !=

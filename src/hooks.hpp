@@ -7,7 +7,9 @@ namespace uwunglish::hooks {
  *
  * @return `MOD_OK` or a specific `ModResult` value if failing
  */
-ModResult initialize();
+// TODO, this is not a clean way to send this info, should still have no parameter and call the
+// util.hpp instead
+ModResult initialize(bool);
 
 /**
  * Uninstall the hooks used by this mod

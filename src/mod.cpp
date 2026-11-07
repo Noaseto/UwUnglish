@@ -19,6 +19,7 @@
 #include <string>
 #include <utility>
 #include <vector>
+#include <map>
 
 #include "hooks.hpp"
 #include "util.hpp"
@@ -38,11 +39,10 @@ using json = nlohmann::json;
 namespace {
 std::vector<mods::flow::MessageOverride> overridenMessage;
 uint16_t kGroupCount = 9;
-// maybe in some world where I'm not exhausted I split this function into several parts
-// like, read json, compute ID, extract text, then the call to the flow
-void overrideMessages(const MessageLanguage language) {
-    int overridenMessages = 0;
-    std::string languageFolder = "english/";
+std::map<std::pair<uint16_t, uint16_t>, std::vector<uint8_t> > zelBmgMap;
+
+void loadFolder(const std::string& languageFolder,
+    std::map<std::pair<uint16_t, uint16_t>, std::vector<uint8_t> >& map) {
     for (uint16_t group = 0; group < kGroupCount; ++group) {
         std::string filePath = languageFolder +
                                "zel_0" +
@@ -62,6 +62,10 @@ void overrideMessages(const MessageLanguage language) {
                 int leftId, rightId;
                 std::sscanf(fullId.c_str(), "%d , %d", &leftId, &rightId);
                 uint16_t id = uwunglish::util::computeId(leftId, rightId);
+                if (map.contains(std::pair(group, id))) {
+                    // map has already been filled there, we skip
+                    continue;
+                }
 
                 // now we need the bytes to write
                 std::vector<uint8_t> text;
@@ -104,24 +108,44 @@ void overrideMessages(const MessageLanguage language) {
                     }
                 }
                 text.push_back(0);
-
-                auto messageOverride = mods::flow::override_message(group, id, language,
-                    std::span{text});
-                overridenMessage.push_back(std::move(messageOverride));
-                overridenMessages++;
+                map[std::pair(group, id)] = text;
             }
         }
     }
+}
+
+void overrideMessage(const std::map<std::pair<uint16_t, uint16_t>, std::vector<uint8_t> >& map,
+    MessageLanguage language) {
+    uint16_t overridenMessages = 0;
+    for (auto& [key, text] : map) {
+        auto [group, id] = key;
+        auto messageOverride = mods::flow::override_message(group, id, language,
+            std::span{text});
+        overridenMessage.push_back(std::move(messageOverride));
+        overridenMessages++;
+    }
     svc_log->debug(mod_ctx, fmt::format("replaced {} messages for {}", overridenMessages,
-        languageFolder).c_str());
+        "english").c_str());
+}
+
+bool isLinkleModActive;
+
+void overrideMessages(bool isLinkleModActive) {
+    // load the override map
+    if (isLinkleModActive) {
+        loadFolder("linkle/english/", zelBmgMap);
+    }
+    loadFolder("english/", zelBmgMap);
+    overrideMessage(zelBmgMap, MESSAGE_LANGUAGE_ENGLISH);
 }
 } // namespace
 
 extern "C" {
 MOD_EXPORT ModResult mod_initialize(ModError*) {
-    overrideMessages(MESSAGE_LANGUAGE_ENGLISH);
+    isLinkleModActive = uwunglish::util::is_mod_enabled("com.ditrey.linkle");
+    overrideMessages(isLinkleModActive);
 
-    ModResult result = uwunglish::hooks::initialize();
+    ModResult result = uwunglish::hooks::initialize(isLinkleModActive);
     if (result != MOD_OK) {
         return result;
     }
@@ -139,6 +163,16 @@ MOD_EXPORT ModResult mod_initialize(ModError*) {
 }
 
 MOD_EXPORT ModResult mod_update(ModError*) {
+    bool isEnabled = uwunglish::util::is_mod_enabled("com.ditrey.linkle");
+    if (isLinkleModActive != isEnabled) {
+        isLinkleModActive = isEnabled;
+        zelBmgMap.clear();
+        overridenMessage.clear();
+        uwunglish::hooks::uninstall();
+
+        overrideMessages(isLinkleModActive);
+        uwunglish::hooks::initialize(isLinkleModActive);
+    }
     return MOD_OK;
 }
 
@@ -146,9 +180,10 @@ MOD_EXPORT ModResult mod_shutdown(ModError*) {
     overridenMessage.clear();
     uwunglish::hooks::uninstall();
 
-    if (svc_te_localization && s_language != 0)
+    if (svc_te_localization && s_language != 0) {
         svc_te_localization->remove_language(mod_ctx, s_language);
-    s_language = 0;
+        s_language = 0;
+    }
 
     return MOD_OK;
 }
