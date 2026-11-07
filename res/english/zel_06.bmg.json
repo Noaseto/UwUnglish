@@ -791,8 +791,9 @@
   {
     "ID": "20, 1",
     "text": [
-      "Just dwop the monyey in the box!",
-      "Hey! Just dwop it!",
+      "Just dwop the monyey in",
+      "the box! Hey! Just dwop it!",
+      "",
       "{1a0900002500000000}"
     ]
   },
