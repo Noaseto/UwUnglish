@@ -31,3 +31,5 @@ something.
 
 The [localization service](https://github.com/F1mmel/te-service-examples/tree/main/src/localization) is implemented and
 Uwunglish will be displayed on the language selector, if no traductions are found, a fallback to english is applied.
+
+Linkle's mod is auto-detected and enables the female translation uwufied as well.
