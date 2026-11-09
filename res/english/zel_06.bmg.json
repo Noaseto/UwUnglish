@@ -83,12 +83,6 @@
     ]
   },
   {
-    "ID": "19, 147",
-    "text": [
-      "Huh? What is it?"
-    ]
-  },
-  {
     "ID": "19, 148",
     "text": [
       "...What? What's the mattew?",
@@ -239,12 +233,6 @@
       "I'm suwe he knyows aww about this",
       "pwace... Pewhaps we shouwd twy to",
       "find him?"
-    ]
-  },
-  {
-    "ID": "19, 176",
-    "text": [
-      "Hee hee hee! {1a07000007000a}...'Bye!"
     ]
   },
   {
@@ -602,12 +590,6 @@
     ]
   },
   {
-    "ID": "19, 226",
-    "text": [
-      "......"
-    ]
-  },
-  {
     "ID": "19, 227",
     "text": [
       "Twinkwe, twinkwe, wittwe Cucco...",
@@ -705,41 +687,10 @@
     ]
   },
   {
-    "ID": "19, 245",
-    "text": [
-      "Pfft! Stingy! Cheap!"
-    ]
-  },
-  {
-    "ID": "19, 246",
-    "text": [
-      "Hey! THIEF! STOP!"
-    ]
-  },
-  {
-    "ID": "19, 247",
-    "text": [
-      "Thank you! Hey! Thank you!",
-      "Come back sometime! Hey!"
-    ]
-  },
-  {
     "ID": "19, 248",
     "text": [
       "...Pay wike you'we supposed to nyext",
       "time, you cheapskate..."
-    ]
-  },
-  {
-    "ID": "19, 249",
-    "text": [
-      "Stop...{1a070000070014}{1a05000001} THIEF!{1a05000002}{1a07000005000a}"
-    ]
-  },
-  {
-    "ID": "19, 250",
-    "text": [
-      "Hahhhh..."
     ]
   },
   {
@@ -837,21 +788,9 @@
     ]
   },
   {
-    "ID": "20, 6",
-    "text": [
-      "Thanks! Hey! Thanks so much!"
-    ]
-  },
-  {
     "ID": "20, 7",
     "text": [
       "Hey! What a genyewous young man!"
-    ]
-  },
-  {
-    "ID": "20, 8",
-    "text": [
-      "...That's a bit on the skimpy side..."
     ]
   },
   {
@@ -1001,18 +940,6 @@
     ]
   },
   {
-    "ID": "20, 31",
-    "text": [
-      "Did... Did you save me?"
-    ]
-  },
-  {
-    "ID": "20, 32",
-    "text": [
-      "Th-Thank you!"
-    ]
-  },
-  {
     "ID": "20, 33",
     "text": [
       "Wisten, since you'we so nyice, wet me",
@@ -1123,12 +1050,6 @@
     ]
   },
   {
-    "ID": "20, 87",
-    "text": [
-      "Hunh?!"
-    ]
-  },
-  {
     "ID": "20, 88",
     "text": [
       "So... {1a07000007000f}It's the Owdonyian!"
@@ -1208,18 +1129,6 @@
     "ID": "20, 98",
     "text": [
       "Thanks a wot, guy! Hewe you go!"
-    ]
-  },
-  {
-    "ID": "20, 99",
-    "text": [
-      "..............."
-    ]
-  },
-  {
-    "ID": "20, 100",
-    "text": [
-      "{1a07ff00010096}{1a05000001}OOO-WAAAH!{1a05000002}{1a070000040014}"
     ]
   },
   {
@@ -1358,28 +1267,10 @@
     ]
   },
   {
-    "ID": "20, 119",
-    "text": [
-      "Oh! {1a07000007000f}You can't..."
-    ]
-  },
-  {
     "ID": "20, 120",
     "text": [
       "If you want to take it, guy, you have to",
       "{1a06ff000001}heat{1a06ff000000} it to make it safe!"
-    ]
-  },
-  {
-    "ID": "20, 121",
-    "text": [
-      "Hmm... {1a07000007000a}You can't..."
-    ]
-  },
-  {
-    "ID": "20, 122",
-    "text": [
-      "You have to {1a06ff000001}heat{1a06ff000000} it..."
     ]
   },
   {
@@ -1401,12 +1292,6 @@
       "But I don't knyow if you'ww wike it...",
       "so don't bwame me if you get sick,",
       "OK, guy?"
-    ]
-  },
-  {
-    "ID": "20, 126",
-    "text": [
-      "...Oh..."
     ]
   },
   {
@@ -1499,12 +1384,6 @@
     ]
   },
   {
-    "ID": "20, 169",
-    "text": [
-      "Wh-WHAAT? They just...died?"
-    ]
-  },
-  {
     "ID": "20, 170",
     "text": [
       "Oh, boy, I have NYO idea what's",
@@ -1545,12 +1424,6 @@
     "text": [
       "Nyaw, that's cwazy... Onwy monkeys",
       "can do that..."
-    ]
-  },
-  {
-    "ID": "20, 176",
-    "text": [
-      "Aww... This stinks..."
     ]
   },
   {
@@ -1974,12 +1847,6 @@
     ]
   },
   {
-    "ID": "21, 133",
-    "text": [
-      "{1a07ff0001007d}Uh!{1a07000007000a} Whoa-ho!"
-    ]
-  },
-  {
     "ID": "21, 134",
     "text": [
       "{1a07ff0001007d}I heawd wuckus, and uh!",
@@ -2012,13 +1879,6 @@
     "text": [
       "{1a07ff0001007d}Uh uh uh uh uh uh uh uh!",
       "You wook fow wong time!"
-    ]
-  },
-  {
-    "ID": "21, 139",
-    "text": [
-      "{1a07ff0001007d}...That was joke. Yetis joke",
-      "too, uh."
     ]
   },
   {
@@ -2140,12 +2000,6 @@
     ]
   },
   {
-    "ID": "21, 158",
-    "text": [
-      "{1a07ff0001007d}Uh... That too bad..."
-    ]
-  },
-  {
     "ID": "21, 159",
     "text": [
       "...{1a07ff0001007d}Bweakfast, uh?"
@@ -2201,40 +2055,15 @@
     ]
   },
   {
-    "ID": "21, 168",
-    "text": [
-      "{1a07ff0001007d}You hate fun, uh?"
-    ]
-  },
-  {
-    "ID": "21, 169",
-    "text": [
-      "{1a07ff0001007d}What, uh?"
-    ]
-  },
-  {
     "ID": "21, 170",
     "text": [
       "{1a07ff0001007d}We wace anyytime, uh!{1a05000020}"
     ]
   },
   {
-    "ID": "21, 171",
-    "text": [
-      "{1a07ff0001007d}Uh uh! You!"
-    ]
-  },
-  {
     "ID": "21, 172",
     "text": [
       "{1a07ff0001007d}You wace, uh?{1a05000020}"
-    ]
-  },
-  {
-    "ID": "21, 173",
-    "text": [
-      "{1a07ff0001007d}Uh uh uh uh uh uh uh uh!",
-      "Yeto wins!"
     ]
   },
   {
@@ -2249,13 +2078,6 @@
     "text": [
       "{1a07ff0001007d}You want wematch, you go",
       "back to mountaintop, uh!"
-    ]
-  },
-  {
-    "ID": "21, 176",
-    "text": [
-      "{1a07ff0001007d}Uh uh uh uh uh uh uh uh uh!",
-      "You beat Yeto!"
     ]
   },
   {
@@ -2312,12 +2134,6 @@
     ]
   },
   {
-    "ID": "21, 185",
-    "text": [
-      "You beat husband, uh! You good."
-    ]
-  },
-  {
     "ID": "21, 186",
     "text": [
       "You...wace me, uh?{1a05000020}"
@@ -2352,12 +2168,6 @@
     "ID": "21, 191",
     "text": [
       "{1a05000000}, uh! You swed?"
-    ]
-  },
-  {
-    "ID": "21, 192",
-    "text": [
-      "Uh uh uh! Yeta wins!"
     ]
   },
   {
@@ -2419,12 +2229,6 @@
     "ID": "21, 201",
     "text": [
       "{1a07ff0001007d}Wematch anyytime, uh!{1a05000020}"
-    ]
-  },
-  {
-    "ID": "21, 202",
-    "text": [
-      "{1a07ff0001007d}Yes!{1a070000070005} See you at top!"
     ]
   },
   {
@@ -2495,12 +2299,6 @@
     "text": [
       "Anyyway... {1a07000007000a}What awe you doing in a",
       "dangewous pwace wike this?"
-    ]
-  },
-  {
-    "ID": "21, 232",
-    "text": [
-      "{1a05000000}."
     ]
   },
   {
@@ -2617,12 +2415,6 @@
     ]
   },
   {
-    "ID": "22, 70",
-    "text": [
-      "Say..."
-    ]
-  },
-  {
     "ID": "22, 71",
     "text": [
       "Do you knyow about the faw side of this",
@@ -2647,12 +2439,6 @@
       "of those ancient peopwe... Weww, I",
       "am suwe it wouwd go a wong way",
       "towawd saving Hywuwe."
-    ]
-  },
-  {
-    "ID": "22, 74",
-    "text": [
-      "{1a05000000}..."
     ]
   },
   {
@@ -2724,12 +2510,6 @@
     ]
   },
   {
-    "ID": "22, 84",
-    "text": [
-      "{1a05000000}..."
-    ]
-  },
-  {
     "ID": "22, 85",
     "text": [
       "Wouwd you take on this task?",
@@ -2781,12 +2561,6 @@
     "ID": "22, 91",
     "text": [
       "...So.{1a07000007000a} Wet me teww you a stowy.{1a07000036002d}"
-    ]
-  },
-  {
-    "ID": "22, 169",
-    "text": [
-      "What is this thing?{1a05000020}"
     ]
   },
   {
@@ -3253,13 +3027,6 @@
     ]
   },
   {
-    "ID": "23, 167",
-    "text": [
-      "Thanks to you, I have been spending",
-      "my days in peace."
-    ]
-  },
-  {
     "ID": "23, 168",
     "text": [
       "Thank you so vewy much."
@@ -3697,12 +3464,6 @@
     ]
   },
   {
-    "ID": "24, 12",
-    "text": [
-      "We meet again."
-    ]
-  },
-  {
     "ID": "24, 13",
     "text": [
       "You have a wittwe mowe of the wook of",
@@ -3913,12 +3674,6 @@
     ]
   },
   {
-    "ID": "24, 40",
-    "text": [
-      "We meet again."
-    ]
-  },
-  {
     "ID": "24, 41",
     "text": [
       "It appeaws youw effowts have begun",
@@ -4108,18 +3863,6 @@
       "Do nyot nyegwect youw daiwy swowd",
       "twainying between nyow and the time",
       "you come to weawn the nyext skiww!"
-    ]
-  },
-  {
-    "ID": "24, 66",
-    "text": [
-      "May we meet again."
-    ]
-  },
-  {
-    "ID": "24, 67",
-    "text": [
-      "We meet again."
     ]
   },
   {
@@ -4331,18 +4074,6 @@
     ]
   },
   {
-    "ID": "24, 95",
-    "text": [
-      "May we meet again."
-    ]
-  },
-  {
-    "ID": "24, 96",
-    "text": [
-      "We meet again."
-    ]
-  },
-  {
     "ID": "24, 97",
     "text": [
       "This nyext is the gweatest of the",
@@ -4530,12 +4261,6 @@
     ]
   },
   {
-    "ID": "24, 122",
-    "text": [
-      "May we meet again."
-    ]
-  },
-  {
     "ID": "24, 123",
     "text": [
       "Even if you wand the hewm spwittew,",
@@ -4548,12 +4273,6 @@
     "text": [
       "Nyow, twy it once mowe fwom the",
       "beginnying!"
-    ]
-  },
-  {
-    "ID": "24, 125",
-    "text": [
-      "We meet again."
     ]
   },
   {
@@ -4764,12 +4483,6 @@
       "Bewieve in youw stwength. Continyue to",
       "push fowwawd unfwinchingwy, and",
       "without stwaying fwom youw path."
-    ]
-  },
-  {
-    "ID": "24, 154",
-    "text": [
-      "May we meet again!"
     ]
   },
   {
@@ -5078,12 +4791,6 @@
     ]
   },
   {
-    "ID": "25, 106",
-    "text": [
-      "Um, {1a05000000}..."
-    ]
-  },
-  {
     "ID": "25, 107",
     "text": [
       "You'we nyot gonnya mention this to",
@@ -5103,12 +4810,6 @@
     "text": [
       "So you weawwy can't teww him!",
       "Weawwy! You have to pwomise!"
-    ]
-  },
-  {
-    "ID": "25, 110",
-    "text": [
-      "{1a05000000}!"
     ]
   },
   {
@@ -5147,13 +4848,6 @@
     "text": [
       "Tomowwow is finyawwy the day. You",
       "wiww be depawting fow Hywuwe."
-    ]
-  },
-  {
-    "ID": "25, 116",
-    "text": [
-      "I think it is a good thing I have given",
-      "this task to you..."
     ]
   },
   {
@@ -5431,12 +5125,6 @@
     ]
   },
   {
-    "ID": "31, 87",
-    "text": [
-      "Got it?"
-    ]
-  },
-  {
     "ID": "31, 88",
     "text": [
       "I see... {1a07000007000a}Weww, I can't fowce you..."
@@ -5484,31 +5172,7 @@
     ]
   },
   {
-    "ID": "31, 95",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
     "ID": "31, 96",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 97",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 98",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 99",
     "text": [
       "Meow! {1a07000007000a}What fun, meow!"
     ]
@@ -5520,85 +5184,7 @@
     ]
   },
   {
-    "ID": "31, 101",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 102",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 103",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 104",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 105",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 106",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
     "ID": "31, 107",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 108",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 109",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 110",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 111",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 112",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 113",
-    "text": [
-      "Meow! {1a07000007000a}What fun, meow!"
-    ]
-  },
-  {
-    "ID": "31, 114",
     "text": [
       "Meow! {1a07000007000a}What fun, meow!"
     ]
@@ -5939,12 +5525,6 @@
     "ID": "35, 57",
     "text": [
       "Aww wight, {1a05000000}, wet's go!"
-    ]
-  },
-  {
-    "ID": "35, 58",
-    "text": [
-      "What the..."
     ]
   },
   {

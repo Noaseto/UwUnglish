@@ -367,12 +367,6 @@
     ]
   },
   {
-    "ID": "19, 187",
-    "text": [
-      "You want to go up? {1a05000020}"
-    ]
-  },
-  {
     "ID": "19, 188",
     "text": [
       "{1a0600000801}Yes",
@@ -709,12 +703,6 @@
     ]
   },
   {
-    "ID": "19, 234",
-    "text": [
-      "Must keep humans out..."
-    ]
-  },
-  {
     "ID": "19, 237",
     "text": [
       "{1a07ff00010096}{1a05000001}ENYOUGH!{1a05000002}{1a07000004001e}"
@@ -988,12 +976,6 @@
     "text": [
       "On behawf of my entiwe cwan, I ask you",
       "fow youw aid!"
-    ]
-  },
-  {
-    "ID": "20, 19",
-    "text": [
-      "...You two!"
     ]
   },
   {
@@ -1331,12 +1313,6 @@
     ]
   },
   {
-    "ID": "20, 96",
-    "text": [
-      "We owe you much..."
-    ]
-  },
-  {
     "ID": "20, 97",
     "text": [
       "When things cawm down a bit, I wiww",
@@ -1462,13 +1438,6 @@
       "It's{1a06ff000008} {1a06ff000006}10 Wupees{1a06ff000008} {1a06ff000000}fow {1a06ff000008}10 awwows{1a06ff000000}. If you do",
       "nyot have the Wupees, Bwothew, then",
       "you wiww nyot have the awwows!"
-    ]
-  },
-  {
-    "ID": "20, 187",
-    "text": [
-      "{1a0600000801}Buy",
-      "{1a0600000802}Quit"
     ]
   },
   {
@@ -1612,13 +1581,6 @@
     ]
   },
   {
-    "ID": "21, 27",
-    "text": [
-      "Ahhh...",
-      "That's the stuff..."
-    ]
-  },
-  {
     "ID": "21, 28",
     "text": [
       "Uh...{1a07000007000a} I have been hewe too wong..."
@@ -1723,12 +1685,6 @@
     "text": [
       "{1a0600000801}Wawp",
       "{1a0600000802}Speak to Midnya"
-    ]
-  },
-  {
-    "ID": "27, 89",
-    "text": [
-      "Wh-What?"
     ]
   },
   {

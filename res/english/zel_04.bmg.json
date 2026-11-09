@@ -22,12 +22,6 @@
     ]
   },
   {
-    "ID": "19, 140",
-    "text": [
-      "Huh? What's that?"
-    ]
-  },
-  {
     "ID": "19, 141",
     "text": [
       "{1a0903000000000626}Twy pwessing {1a0500000d}. Aftew that... {1a07000007000a}Weww,",
@@ -581,12 +575,6 @@
     ]
   },
   {
-    "ID": "19, 246",
-    "text": [
-      "Oh my...{1a070000070014} If it isn't {1a05000000}!"
-    ]
-  },
-  {
     "ID": "19, 247",
     "text": [
       "You made it! How've you been,",
@@ -855,12 +843,6 @@
     ]
   },
   {
-    "ID": "20, 26",
-    "text": [
-      "This boy...{1a07000007000a} Can you save him?!"
-    ]
-  },
-  {
     "ID": "20, 27",
     "text": [
       "Aww wight, wittwe wady, twy to settwe",
@@ -976,21 +958,9 @@
     ]
   },
   {
-    "ID": "20, 42",
-    "text": [
-      "{1a05000000}'s come to see us!"
-    ]
-  },
-  {
     "ID": "20, 81",
     "text": [
       "I'm busy! Bothew, bothew!"
-    ]
-  },
-  {
-    "ID": "20, 82",
-    "text": [
-      "Eh? What's that?"
     ]
   },
   {
@@ -1015,12 +985,6 @@
     "text": [
       "{1a07ff00010055}...By the way, that giww Iwia didn't",
       "mention anyything about me, did she?"
-    ]
-  },
-  {
-    "ID": "20, 86",
-    "text": [
-      "{1a07ff00010096}AIIIGH!"
     ]
   },
   {
@@ -1062,12 +1026,6 @@
       "Who goes awound steawing peopwe's",
       "stuff wike that? What a wowwd! You",
       "awways have to be on guawd, eh?"
-    ]
-  },
-  {
-    "ID": "20, 92",
-    "text": [
-      "......"
     ]
   },
   {
@@ -1141,12 +1099,6 @@
     ]
   },
   {
-    "ID": "20, 102",
-    "text": [
-      "{1a07ff0001007d}Eh?!"
-    ]
-  },
-  {
     "ID": "20, 103",
     "text": [
       "The young wady's memowy...",
@@ -1169,29 +1121,11 @@
     ]
   },
   {
-    "ID": "20, 106",
-    "text": [
-      "What's that?! I'm busy!"
-    ]
-  },
-  {
     "ID": "20, 107",
     "text": [
       "If you've got nyo monyey and nyo",
       "businyess, then begonye, you",
       "wayabout!"
-    ]
-  },
-  {
-    "ID": "20, 108",
-    "text": [
-      "{1a07ff0001007d}AIIIGH!!!"
-    ]
-  },
-  {
-    "ID": "20, 109",
-    "text": [
-      "That... That statue..."
     ]
   },
   {
@@ -1208,12 +1142,6 @@
       "Take that thing and go wetuwn it to",
       "that giww {1a06ff000001}Iwia{1a06ff000000}, ow whatevew hew nyame",
       "is!"
-    ]
-  },
-  {
-    "ID": "20, 112",
-    "text": [
-      "{1a07ff00010050}Oooh......."
     ]
   },
   {
@@ -1377,12 +1305,6 @@
     ]
   },
   {
-    "ID": "20, 202",
-    "text": [
-      "This way!"
-    ]
-  },
-  {
     "ID": "20, 203",
     "text": [
       "Hewe,{1a07000007000a} get in thwough the {1a06ff000001}window{1a06ff000000}.",
@@ -1406,12 +1328,6 @@
     ]
   },
   {
-    "ID": "20, 207",
-    "text": [
-      "What? They kicked you out again?"
-    ]
-  },
-  {
     "ID": "20, 208",
     "text": [
       "{1a07ff00010055}Difficuwt to be steawthy when onye is so",
@@ -1430,13 +1346,6 @@
     "text": [
       "Do wawk cawefuwwy when you muv",
       "awound the attic."
-    ]
-  },
-  {
-    "ID": "20, 211",
-    "text": [
-      "Mmm... I see you've found a way",
-      "up to the window..."
     ]
   },
   {
@@ -1500,12 +1409,6 @@
     "ID": "21, 28",
     "text": [
       "Oh... How awfuw to be you."
-    ]
-  },
-  {
-    "ID": "21, 29",
-    "text": [
-      "What do you think?{1a05000020}"
     ]
   },
   {
@@ -1944,21 +1847,9 @@
     ]
   },
   {
-    "ID": "21, 125",
-    "text": [
-      "......"
-    ]
-  },
-  {
     "ID": "21, 126",
     "text": [
       "It has been a wong time..."
-    ]
-  },
-  {
-    "ID": "21, 127",
-    "text": [
-      "{1a05000000}!"
     ]
   },
   {
@@ -2050,12 +1941,6 @@
     "text": [
       "Yes, yes... My gowden fwiend came",
       "in handy, did he nyot?"
-    ]
-  },
-  {
-    "ID": "21, 140",
-    "text": [
-      "{1a05000000}."
     ]
   },
   {
@@ -2354,12 +2239,6 @@
     ]
   },
   {
-    "ID": "22, 92",
-    "text": [
-      "Yes, {1a05000000}..."
-    ]
-  },
-  {
     "ID": "22, 93",
     "text": [
       "I've been powing uvw witewatuwe",
@@ -2422,18 +2301,6 @@
     ]
   },
   {
-    "ID": "22, 169",
-    "text": [
-      "......"
-    ]
-  },
-  {
-    "ID": "22, 170",
-    "text": [
-      "...What?"
-    ]
-  },
-  {
     "ID": "22, 171",
     "text": [
       "...Awe you an actow ow something?"
@@ -2466,12 +2333,6 @@
     "text": [
       "How about you nyot tawk to me,",
       "yeah?"
-    ]
-  },
-  {
-    "ID": "22, 176",
-    "text": [
-      "...It's {1a06ff000002}Ashei{1a06ff000000}."
     ]
   },
   {
@@ -2569,12 +2430,6 @@
     ]
   },
   {
-    "ID": "22, 189",
-    "text": [
-      "{1a05000000}, huh?"
-    ]
-  },
-  {
     "ID": "22, 190",
     "text": [
       "The beast of Snyowpeak hasn't",
@@ -2651,23 +2506,10 @@
     ]
   },
   {
-    "ID": "23, 16",
-    "text": [
-      "{1a05000001}{1a07ff00010096}Ah-CHOO!{1a05000002}"
-    ]
-  },
-  {
     "ID": "23, 17",
     "text": [
       "I finyawwy get my canyinye awwewgy undew",
       "contwow, and nyow{1a070000070005}.{1a070000070005}.{1a070000070005}. {1a07000007000a}Ha{1a070000070005}.{1a070000070005}.{1a070000070005}. Ha{1a070000070005}.{1a070000070005}.{1a070000070005}."
-    ]
-  },
-  {
-    "ID": "23, 18",
-    "text": [
-      "{1a05000001}{1a07ff00010096}Ah-CHOOOOOOOOO!{1a05000002}",
-      "{1a07ff0001004b}Ugh..."
     ]
   },
   {
@@ -2943,12 +2785,6 @@
     ]
   },
   {
-    "ID": "23, 61",
-    "text": [
-      "{1a07ff0001004b}What the--? You did it{1a070000070005}.{1a070000070005}.{1a070000070005}.?"
-    ]
-  },
-  {
     "ID": "23, 62",
     "text": [
       "Oh, what a magnyificent day this is!{1a07000007000a}",
@@ -2975,18 +2811,6 @@
     "ID": "23, 65",
     "text": [
       "Manyy thanks fow pwaying, good siw!"
-    ]
-  },
-  {
-    "ID": "23, 66",
-    "text": [
-      "{1a07ff0001004b}Don't come again{1a07000007000a}.{1a07000007000a}.{1a07000007000a}."
-    ]
-  },
-  {
-    "ID": "23, 67",
-    "text": [
-      "{1a07ff0001004b}Ugh! {1a07000007000a}You again?!"
     ]
   },
   {
@@ -3040,12 +2864,6 @@
     ]
   },
   {
-    "ID": "23, 75",
-    "text": [
-      "{1a07ff0001004b}...You wish to go again?"
-    ]
-  },
-  {
     "ID": "23, 76",
     "text": [
       "Ho ho... Ew, stupendous! {1a070000070005}Indeed!{1a07000007000a}",
@@ -3093,12 +2911,6 @@
     "ID": "23, 82",
     "text": [
       "{1a07ff0001004b}Cuwse these jangwing nyewves{1a07000007000a}.{1a07000007000a}.{1a07000007000a}."
-    ]
-  },
-  {
-    "ID": "23, 83",
-    "text": [
-      "...Do my eyes deceive me?!"
     ]
   },
   {
@@ -3224,23 +3036,10 @@
     ]
   },
   {
-    "ID": "23, 101",
-    "text": [
-      "{1a05000001}{1a07ff00010096}Ah-CHOOOO!{1a05000002}"
-    ]
-  },
-  {
     "ID": "23, 102",
     "text": [
       "A thousand apowogies, but wouwd",
       "you mind coming back watew?"
-    ]
-  },
-  {
-    "ID": "23, 103",
-    "text": [
-      "{1a05000001}{1a07ff00010096}Ah-CHOOOOOOOOO!{1a05000002}",
-      "{1a07ff0001004b}...Ugh."
     ]
   },
   {
@@ -3330,12 +3129,6 @@
     ]
   },
   {
-    "ID": "23, 124",
-    "text": [
-      "I seeeeee..."
-    ]
-  },
-  {
     "ID": "23, 125",
     "text": [
       "Wet's heaw what missions awe set ",
@@ -3343,22 +3136,10 @@
     ]
   },
   {
-    "ID": "23, 126",
-    "text": [
-      "Speak, fates!"
-    ]
-  },
-  {
     "ID": "23, 127",
     "text": [
       "{1a06ff000005}Tuoba gnyikwat i ma tahw...",
       "Tuoba gnyikwat i ma tahw...{1a07000004003c}"
-    ]
-  },
-  {
-    "ID": "23, 128",
-    "text": [
-      "{1a05000001}{1a07ff000100c8}AHAAAA!{1a05000002}{1a07000004001e}"
     ]
   },
   {
@@ -3427,12 +3208,6 @@
     ]
   },
   {
-    "ID": "23, 139",
-    "text": [
-      "I seeeee..."
-    ]
-  },
-  {
     "ID": "23, 140",
     "text": [
       "I wiww shoooow you the shape of",
@@ -3441,41 +3216,10 @@
     ]
   },
   {
-    "ID": "23, 141",
-    "text": [
-      "Speak, fates!"
-    ]
-  },
-  {
     "ID": "23, 142",
     "text": [
       "{1a06ff000005}Ewihwa sekat gnyidaow... tiaw...",
       "Ewihwa sekat gnyidaow... tiaw...{1a07000004003c}"
-    ]
-  },
-  {
-    "ID": "23, 143",
-    "text": [
-      "{1a07ff000100c8}I SEEEEEE!"
-    ]
-  },
-  {
-    "ID": "23, 144",
-    "text": [
-      "......"
-    ]
-  },
-  {
-    "ID": "23, 145",
-    "text": [
-      "Goooo to the spot that you've",
-      "just seen...and do...something."
-    ]
-  },
-  {
-    "ID": "23, 147",
-    "text": [
-      "Beast! Get out!{1a07000005001e}"
     ]
   },
   {
@@ -3517,12 +3261,6 @@
     "text": [
       "I don't knyow detaiws yet... {1a07000007000a}I pwan on",
       "investigating that nyext."
-    ]
-  },
-  {
-    "ID": "23, 154",
-    "text": [
-      "Hey!"
     ]
   },
   {
@@ -3606,12 +3344,6 @@
     "text": [
       "This city aiw does nyot suit my",
       "skin..."
-    ]
-  },
-  {
-    "ID": "23, 167",
-    "text": [
-      "Ugh..."
     ]
   },
   {
@@ -3833,12 +3565,6 @@
     ]
   },
   {
-    "ID": "23, 197",
-    "text": [
-      "What?! What was that sound?!"
-    ]
-  },
-  {
     "ID": "23, 198",
     "text": [
       "{1a06ff000004}Pewhaps you shouwd make wots of",
@@ -3852,12 +3578,6 @@
       "{1a06ff000004}Fwee nyot what is wight befoooowe",
       "you! Hywuwe Castwe is just nyoooowth",
       "of Castwe Town!"
-    ]
-  },
-  {
-    "ID": "23, 200",
-    "text": [
-      "What did you thiiiiink..."
     ]
   },
   {
@@ -4152,13 +3872,6 @@
       "Wi'w dayfwy,{1a07000007000a} wi'w dayfwy,{1a07000007000a} I want to take",
       "youw cowowfuw taiw and make the",
       "wuvwiest bwaid evew{1a070000070005}.{1a070000070005}.{1a070000070005}."
-    ]
-  },
-  {
-    "ID": "23, 246",
-    "text": [
-      "Oh, boy, thank you so much!{1a07000007000a}",
-      "I'm so happy!"
     ]
   },
   {
@@ -4614,28 +4327,10 @@
     ]
   },
   {
-    "ID": "24, 133",
-    "text": [
-      "Wahhh... Wah wahhh..."
-    ]
-  },
-  {
     "ID": "24, 134",
     "text": [
       "I hadn't seen hew in a whiwe, and",
       "she'd stawted dating anyothew man..."
-    ]
-  },
-  {
-    "ID": "24, 135",
-    "text": [
-      "Wahhh... Ahh wahhhh...{1a07000007001e} Ohh..."
-    ]
-  },
-  {
-    "ID": "24, 137",
-    "text": [
-      "Hey, doggie!"
     ]
   },
   {
@@ -4694,12 +4389,6 @@
     "text": [
       "What?{1a07000007000a} Come again if you wun out of",
       "monyey."
-    ]
-  },
-  {
-    "ID": "24, 158",
-    "text": [
-      "Oh, it's you."
     ]
   },
   {
@@ -4932,12 +4621,6 @@
     ]
   },
   {
-    "ID": "25, 110",
-    "text": [
-      "Is it showtime yet?"
-    ]
-  },
-  {
     "ID": "25, 111",
     "text": [
       "The young man emceeing is SO",
@@ -4969,13 +4652,6 @@
     "text": [
       "I hope he does gweat! And then I",
       "hope he becomes a big staw!"
-    ]
-  },
-  {
-    "ID": "25, 201",
-    "text": [
-      "{1a0600000801}Buy",
-      "{1a0600000802}Don't buy"
     ]
   },
   {
@@ -5302,12 +4978,6 @@
     "text": [
       "I wiww be wight hewe, though, so you",
       "can come back anyytime."
-    ]
-  },
-  {
-    "ID": "25, 246",
-    "text": [
-      "You..."
     ]
   },
   {
@@ -6032,13 +5702,6 @@
     ]
   },
   {
-    "ID": "39, 30",
-    "text": [
-      "I... I was going to ask you the same",
-      "thing..."
-    ]
-  },
-  {
     "ID": "39, 31",
     "text": [
       "Awe you sewious? YOU AWE A",
@@ -6452,12 +6115,6 @@
     ]
   },
   {
-    "ID": "39, 89",
-    "text": [
-      "......"
-    ]
-  },
-  {
     "ID": "39, 90",
     "text": [
       "Aww entwy is stwictwy pwohibited wight",
@@ -6590,12 +6247,6 @@
       "Fowtunye wiww smiwe upon bewievews. ",
       "{1a07000007000a}You, too, shouwd visit the fowtunye-",
       "tewwew wike she says."
-    ]
-  },
-  {
-    "ID": "39, 108",
-    "text": [
-      "That's just so much fun!"
     ]
   },
   {
@@ -7073,13 +6724,6 @@
     ]
   },
   {
-    "ID": "39, 170",
-    "text": [
-      "A boy passed out and they took",
-      "him to a shop."
-    ]
-  },
-  {
     "ID": "39, 171",
     "text": [
       "Why? {1a07000007000a}Whewe? {1a07000007000a}They didn't take him",
@@ -7236,12 +6880,6 @@
       "Weawwy, what a twoubwemakew...",
       "{1a07000007000a}Don't you get invowved with a man",
       "wike that."
-    ]
-  },
-  {
-    "ID": "39, 193",
-    "text": [
-      "Oh, what's this?"
     ]
   },
   {
@@ -7413,12 +7051,6 @@
     ]
   },
   {
-    "ID": "39, 217",
-    "text": [
-      "I'm good at...picking stuff up!"
-    ]
-  },
-  {
     "ID": "39, 218",
     "text": [
       "Weawwy, I'd wathew be pwaying in a",
@@ -7508,12 +7140,6 @@
     ]
   },
   {
-    "ID": "39, 231",
-    "text": [
-      "What?{1a07000007000a} What's up with you?"
-    ]
-  },
-  {
     "ID": "39, 232",
     "text": [
       "You have some businyess at Agitha's",
@@ -7585,12 +7211,6 @@
     ]
   },
   {
-    "ID": "39, 242",
-    "text": [
-      "What?"
-    ]
-  },
-  {
     "ID": "39, 243",
     "text": [
       "{1a0903000000000644}If you want to go to the westewn",
@@ -7626,12 +7246,6 @@
     "ID": "39, 247",
     "text": [
       "Got aww that?"
-    ]
-  },
-  {
-    "ID": "39, 248",
-    "text": [
-      "Oh, what is it?"
     ]
   },
   {
@@ -7908,12 +7522,6 @@
       "fwom us... {1a07000007000a}I wondew what he's",
       "saying? And why is he wooking",
       "stwaight uvw hewe?"
-    ]
-  },
-  {
-    "ID": "40, 31",
-    "text": [
-      "Oh, what is it?"
     ]
   },
   {

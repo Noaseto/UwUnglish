@@ -44,12 +44,6 @@
     ]
   },
   {
-    "ID": "0, 7",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "0, 8",
     "text": [
       "Nyo"
@@ -104,12 +98,6 @@
     ]
   },
   {
-    "ID": "0, 15",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "0, 16",
     "text": [
       "Nyo"
@@ -137,12 +125,6 @@
     ]
   },
   {
-    "ID": "0, 20",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "0, 21",
     "text": [
       "Nyo"
@@ -154,12 +136,6 @@
       "Wouwd you wike to cweate a save fiwe",
       "fow this game on the Memowy Cawd",
       "insewted in Swot A?{1a07000036001e}"
-    ]
-  },
-  {
-    "ID": "0, 23",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -249,12 +225,6 @@
     ]
   },
   {
-    "ID": "0, 35",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "0, 36",
     "text": [
       "Nyo"
@@ -317,12 +287,6 @@
     ]
   },
   {
-    "ID": "0, 44",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "0, 45",
     "text": [
       "Nyo"
@@ -342,12 +306,6 @@
     "text": [
       "Youw pwogwess wiww nyot be saved.",
       "Is this OK?{1a07000036001e}"
-    ]
-  },
-  {
-    "ID": "0, 48",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -375,12 +333,6 @@
       "wequiwes 1 fiwe and 4 bwocks to save.",
       "Wouwd you wike to cweate a save",
       "fiwe on the Memowy Cawd in Swot A?{1a07000036001e}"
-    ]
-  },
-  {
-    "ID": "0, 52",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -420,12 +372,6 @@
     ]
   },
   {
-    "ID": "0, 58",
-    "text": [
-      "Saving..."
-    ]
-  },
-  {
     "ID": "0, 59",
     "text": [
       "Unyabwe to save. The Memowy Cawd in",
@@ -438,12 +384,6 @@
     "text": [
       "Save compwete. Wouwd you wike to",
       "continyue the game?{1a07000036001e}"
-    ]
-  },
-  {
-    "ID": "0, 61",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -496,12 +436,6 @@
     ]
   },
   {
-    "ID": "0, 70",
-    "text": [
-      "Copying..."
-    ]
-  },
-  {
     "ID": "0, 71",
     "text": [
       "Copy compwete.{1a07000036001e}"
@@ -546,24 +480,6 @@
     ]
   },
   {
-    "ID": "0, 78",
-    "text": [
-      "{1a05000000}"
-    ]
-  },
-  {
-    "ID": "0, 79",
-    "text": [
-      "{1a05000000}"
-    ]
-  },
-  {
-    "ID": "0, 80",
-    "text": [
-      "{1a05000000}"
-    ]
-  },
-  {
     "ID": "0, 81",
     "text": [
       "This Quest Wog is",
@@ -585,21 +501,9 @@
     ]
   },
   {
-    "ID": "0, 84",
-    "text": [
-      "Back"
-    ]
-  },
-  {
     "ID": "0, 85",
     "text": [
       "Confiwm"
-    ]
-  },
-  {
-    "ID": "0, 86",
-    "text": [
-      "Copy"
     ]
   },
   {
@@ -621,57 +525,9 @@
     ]
   },
   {
-    "ID": "0, 90",
-    "text": [
-      "Set to {1a05000010}{1a05000011}{1a0500000f}"
-    ]
-  },
-  {
     "ID": "0, 91",
     "text": [
       "Save to Quest Wog"
-    ]
-  },
-  {
-    "ID": "0, 92",
-    "text": [
-      "Options"
-    ]
-  },
-  {
-    "ID": "0, 93",
-    "text": [
-      "Info"
-    ]
-  },
-  {
-    "ID": "0, 94",
-    "text": [
-      "Back"
-    ]
-  },
-  {
-    "ID": "0, 95",
-    "text": [
-      "Options"
-    ]
-  },
-  {
-    "ID": "0, 96",
-    "text": [
-      "Save"
-    ]
-  },
-  {
-    "ID": "0, 97",
-    "text": [
-      "ITEMS"
-    ]
-  },
-  {
-    "ID": "0, 98",
-    "text": [
-      "MAP"
     ]
   },
   {
@@ -2239,30 +2095,6 @@
     ]
   },
   {
-    "ID": "1, 136",
-    "text": [
-      "Dungeon Map"
-    ]
-  },
-  {
-    "ID": "1, 137",
-    "text": [
-      "Compass"
-    ]
-  },
-  {
-    "ID": "1, 138",
-    "text": [
-      "Ooccoo"
-    ]
-  },
-  {
-    "ID": "1, 139",
-    "text": [
-      "Big Key"
-    ]
-  },
-  {
     "ID": "1, 140",
     "text": [
       "Ooccoo Jw."
@@ -2335,12 +2167,6 @@
     ]
   },
   {
-    "ID": "1, 152",
-    "text": [
-      "Ooccoo"
-    ]
-  },
-  {
     "ID": "1, 153",
     "text": [
       "Wawwet"
@@ -2362,12 +2188,6 @@
     "ID": "1, 162",
     "text": [
       "Cowaw Eawwing"
-    ]
-  },
-  {
-    "ID": "1, 163",
-    "text": [
-      "Hawkeye"
     ]
   },
   {
@@ -2455,24 +2275,6 @@
     ]
   },
   {
-    "ID": "1, 180",
-    "text": [
-      "Giant Bomb Bag"
-    ]
-  },
-  {
-    "ID": "1, 181",
-    "text": [
-      "Bomb Bag"
-    ]
-  },
-  {
-    "ID": "1, 182",
-    "text": [
-      "Bag and Bombs"
-    ]
-  },
-  {
     "ID": "1, 184",
     "text": [
       "Fiwe Awwow"
@@ -2548,12 +2350,6 @@
     "ID": "1, 198",
     "text": [
       "Wed Potion"
-    ]
-  },
-  {
-    "ID": "1, 199",
-    "text": [
-      "Magic Potion"
     ]
   },
   {
@@ -2635,12 +2431,6 @@
     ]
   },
   {
-    "ID": "1, 213",
-    "text": [
-      "Bombs"
-    ]
-  },
-  {
     "ID": "1, 214",
     "text": [
       "Watew Bombs"
@@ -2719,12 +2509,6 @@
     ]
   },
   {
-    "ID": "1, 227",
-    "text": [
-      "Good Soup"
-    ]
-  },
-  {
     "ID": "1, 228",
     "text": [
       "Supewb Soup"
@@ -2734,18 +2518,6 @@
     "ID": "1, 229",
     "text": [
       "Wenyado's Wettew"
-    ]
-  },
-  {
-    "ID": "1, 230",
-    "text": [
-      "Invoice"
-    ]
-  },
-  {
-    "ID": "1, 231",
-    "text": [
-      "Wooden Statue"
     ]
   },
   {
@@ -2764,12 +2536,6 @@
     "ID": "1, 245",
     "text": [
       "Auwu's Memo"
-    ]
-  },
-  {
-    "ID": "1, 246",
-    "text": [
-      "Ashei's Sketch"
     ]
   },
   {
@@ -2845,12 +2611,6 @@
     ]
   },
   {
-    "ID": "2, 23",
-    "text": [
-      "{1a06ff000001}Poe{1a06ff000000} Scent"
-    ]
-  },
-  {
     "ID": "2, 24",
     "text": [
       "{1a06ff000001}Weekfish{1a06ff000000} Scent"
@@ -2917,18 +2677,6 @@
     ]
   },
   {
-    "ID": "2, 45",
-    "text": [
-      "{1a05060002} phasmid"
-    ]
-  },
-  {
-    "ID": "2, 46",
-    "text": [
-      "{1a05060003} phasmid"
-    ]
-  },
-  {
     "ID": "2, 47",
     "text": [
       "{1a05060002} piww bug"
@@ -2938,18 +2686,6 @@
     "ID": "2, 48",
     "text": [
       "{1a05060003} piww bug"
-    ]
-  },
-  {
-    "ID": "2, 49",
-    "text": [
-      "{1a05060002} mantis"
-    ]
-  },
-  {
-    "ID": "2, 50",
-    "text": [
-      "{1a05060003} mantis"
     ]
   },
   {
@@ -2989,18 +2725,6 @@
     ]
   },
   {
-    "ID": "2, 57",
-    "text": [
-      "{1a05060002} ant"
-    ]
-  },
-  {
-    "ID": "2, 58",
-    "text": [
-      "{1a05060003} ant"
-    ]
-  },
-  {
     "ID": "2, 59",
     "text": [
       "{1a05060002} dayfwy"
@@ -3019,39 +2743,15 @@
     ]
   },
   {
-    "ID": "2, 78",
-    "text": [
-      "Ancient Sky Book"
-    ]
-  },
-  {
-    "ID": "2, 79",
-    "text": [
-      "Ancient Sky Book"
-    ]
-  },
-  {
     "ID": "2, 80",
     "text": [
       "Fiwwed Sky Book"
     ]
   },
   {
-    "ID": "2, 81",
-    "text": [
-      "Ooccoo"
-    ]
-  },
-  {
     "ID": "2, 83",
     "text": [
       "Smaww Key"
-    ]
-  },
-  {
-    "ID": "2, 88",
-    "text": [
-      "Gate Key"
     ]
   },
   {
@@ -3100,12 +2800,6 @@
     "ID": "2, 96",
     "text": [
       "Key Shawd"
-    ]
-  },
-  {
-    "ID": "2, 98",
-    "text": [
-      "Big Key"
     ]
   },
   {
@@ -4350,69 +4044,9 @@
     ]
   },
   {
-    "ID": "3, 101",
-    "text": [
-      "Map"
-    ]
-  },
-  {
-    "ID": "3, 102",
-    "text": [
-      "Compass"
-    ]
-  },
-  {
-    "ID": "3, 103",
-    "text": [
-      "Big Key"
-    ]
-  },
-  {
     "ID": "3, 104",
     "text": [
       "Detaiws"
-    ]
-  },
-  {
-    "ID": "3, 105",
-    "text": [
-      "Back"
-    ]
-  },
-  {
-    "ID": "3, 106",
-    "text": [
-      "Choose"
-    ]
-  },
-  {
-    "ID": "3, 107",
-    "text": [
-      "B1"
-    ]
-  },
-  {
-    "ID": "3, 108",
-    "text": [
-      "1F"
-    ]
-  },
-  {
-    "ID": "3, 109",
-    "text": [
-      "2F"
-    ]
-  },
-  {
-    "ID": "3, 110",
-    "text": [
-      "3F"
-    ]
-  },
-  {
-    "ID": "3, 111",
-    "text": [
-      "4F"
     ]
   },
   {
@@ -4458,12 +4092,6 @@
     ]
   },
   {
-    "ID": "3, 119",
-    "text": [
-      "City in the Sky"
-    ]
-  },
-  {
     "ID": "3, 120",
     "text": [
       "Pawace of Twiwight"
@@ -4476,12 +4104,6 @@
       "to cawwy bombs to enyemies!",
       "Howd {1a0500000f}, aim with {1a05000023}, then use {1a0500000d} ow",
       "{1a0500000e} to tawget objects!"
-    ]
-  },
-  {
-    "ID": "3, 122",
-    "text": [
-      "Zoom"
     ]
   },
   {
@@ -4520,12 +4142,6 @@
     "ID": "3, 127",
     "text": [
       "Wotate"
-    ]
-  },
-  {
-    "ID": "3, 128",
-    "text": [
-      "Set item"
     ]
   },
   {
@@ -4577,42 +4193,6 @@
     ]
   },
   {
-    "ID": "3, 137",
-    "text": [
-      "{1a05060006}"
-    ]
-  },
-  {
-    "ID": "3, 138",
-    "text": [
-      "END"
-    ]
-  },
-  {
-    "ID": "3, 139",
-    "text": [
-      "ABC"
-    ]
-  },
-  {
-    "ID": "3, 140",
-    "text": [
-      "abc"
-    ]
-  },
-  {
-    "ID": "3, 141",
-    "text": [
-      "{1a05060006}"
-    ]
-  },
-  {
-    "ID": "3, 142",
-    "text": [
-      "END"
-    ]
-  },
-  {
     "ID": "3, 144",
     "text": [
       "Unyabwe to find the Memowy Cawd in ",
@@ -4647,12 +4227,6 @@
       "The data in the Memowy Cawd in Swot",
       "A is cowwupted and nyeeds to be ",
       "ewased. Do you want to ewase it?{1a07000036001e}"
-    ]
-  },
-  {
-    "ID": "3, 149",
-    "text": [
-      "YES"
     ]
   },
   {
@@ -4710,12 +4284,6 @@
     ]
   },
   {
-    "ID": "3, 157",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "3, 158",
     "text": [
       "NYO"
@@ -4746,12 +4314,6 @@
     ]
   },
   {
-    "ID": "3, 162",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "3, 163",
     "text": [
       "NYO"
@@ -4762,12 +4324,6 @@
     "text": [
       "Cweate a save fiwe on the Memowy Cawd",
       "in Swot A?{1a07000036001e}"
-    ]
-  },
-  {
-    "ID": "3, 165",
-    "text": [
-      "YES"
     ]
   },
   {
@@ -4856,12 +4412,6 @@
     ]
   },
   {
-    "ID": "3, 177",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "3, 178",
     "text": [
       "NYO"
@@ -4925,12 +4475,6 @@
     ]
   },
   {
-    "ID": "3, 186",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "3, 187",
     "text": [
       "NYO"
@@ -4952,12 +4496,6 @@
     ]
   },
   {
-    "ID": "3, 190",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "3, 191",
     "text": [
       "NYO"
@@ -4976,12 +4514,6 @@
     "text": [
       "Cweate a save fiwe fow this game",
       "on the Memowy Cawd in Swot A?{1a07000036001e}"
-    ]
-  },
-  {
-    "ID": "3, 194",
-    "text": [
-      "YES"
     ]
   },
   {
@@ -5043,12 +4575,6 @@
     ]
   },
   {
-    "ID": "3, 203",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "3, 204",
     "text": [
       "NYO"
@@ -5062,21 +4588,9 @@
     ]
   },
   {
-    "ID": "3, 206",
-    "text": [
-      "Do you want to save?"
-    ]
-  },
-  {
     "ID": "3, 207",
     "text": [
       "Do you want to continyue pwaying?"
-    ]
-  },
-  {
-    "ID": "3, 208",
-    "text": [
-      "Save time"
     ]
   },
   {
@@ -5128,42 +4642,6 @@
     ]
   },
   {
-    "ID": "3, 216",
-    "text": [
-      "8F"
-    ]
-  },
-  {
-    "ID": "3, 217",
-    "text": [
-      "7F"
-    ]
-  },
-  {
-    "ID": "3, 218",
-    "text": [
-      "B2"
-    ]
-  },
-  {
-    "ID": "3, 219",
-    "text": [
-      "B3"
-    ]
-  },
-  {
-    "ID": "3, 220",
-    "text": [
-      "5F"
-    ]
-  },
-  {
-    "ID": "3, 221",
-    "text": [
-      "6F"
-    ]
-  },
-  {
     "ID": "3, 222",
     "text": [
       "Muv"
@@ -5200,29 +4678,11 @@
     ]
   },
   {
-    "ID": "3, 228",
-    "text": [
-      "GOAT IN!"
-    ]
-  },
-  {
     "ID": "3, 229",
     "text": [
       "The Vessew of Wight is fiwwed",
       "with teaws! Huwwy! Take it to",
       "the spiwit!"
-    ]
-  },
-  {
-    "ID": "3, 230",
-    "text": [
-      "Hint"
-    ]
-  },
-  {
-    "ID": "3, 231",
-    "text": [
-      "X/Y Switch"
     ]
   },
   {
@@ -5238,33 +4698,9 @@
     ]
   },
   {
-    "ID": "3, 234",
-    "text": [
-      "Peek"
-    ]
-  },
-  {
-    "ID": "3, 235",
-    "text": [
-      "Attack"
-    ]
-  },
-  {
-    "ID": "3, 236",
-    "text": [
-      "Put away"
-    ]
-  },
-  {
     "ID": "3, 237",
     "text": [
       "Howw"
-    ]
-  },
-  {
-    "ID": "3, 238",
-    "text": [
-      "Open"
     ]
   },
   {
@@ -5274,63 +4710,15 @@
     ]
   },
   {
-    "ID": "3, 240",
-    "text": [
-      "Check"
-    ]
-  },
-  {
-    "ID": "3, 241",
-    "text": [
-      "Dash"
-    ]
-  },
-  {
     "ID": "3, 242",
     "text": [
       "Cwouch"
     ]
   },
   {
-    "ID": "3, 243",
-    "text": [
-      "Defend"
-    ]
-  },
-  {
-    "ID": "3, 244",
-    "text": [
-      "Pick up"
-    ]
-  },
-  {
-    "ID": "3, 245",
-    "text": [
-      "Dig"
-    ]
-  },
-  {
-    "ID": "3, 246",
-    "text": [
-      "Eat"
-    ]
-  },
-  {
     "ID": "3, 247",
     "text": [
       "Sewect"
-    ]
-  },
-  {
-    "ID": "3, 248",
-    "text": [
-      "Switch"
-    ]
-  },
-  {
-    "ID": "3, 249",
-    "text": [
-      "Back"
     ]
   },
   {
@@ -5352,45 +4740,15 @@
     ]
   },
   {
-    "ID": "3, 253",
-    "text": [
-      "Swim"
-    ]
-  },
-  {
-    "ID": "3, 254",
-    "text": [
-      "Get on"
-    ]
-  },
-  {
-    "ID": "3, 255",
-    "text": [
-      "Get on"
-    ]
-  },
-  {
     "ID": "4, 0",
     "text": [
       "Wift"
     ]
   },
   {
-    "ID": "4, 1",
-    "text": [
-      "Pick up"
-    ]
-  },
-  {
     "ID": "4, 2",
     "text": [
       "Paddwe"
-    ]
-  },
-  {
-    "ID": "4, 3",
-    "text": [
-      "Jump"
     ]
   },
   {
@@ -5406,18 +4764,6 @@
     ]
   },
   {
-    "ID": "4, 6",
-    "text": [
-      "Speak"
-    ]
-  },
-  {
-    "ID": "4, 7",
-    "text": [
-      "Swing"
-    ]
-  },
-  {
     "ID": "4, 8",
     "text": [
       "Nyext"
@@ -5427,12 +4773,6 @@
     "ID": "4, 9",
     "text": [
       "Wock"
-    ]
-  },
-  {
-    "ID": "4, 10",
-    "text": [
-      "Zoom"
     ]
   },
   {
@@ -5448,33 +4788,9 @@
     ]
   },
   {
-    "ID": "4, 13",
-    "text": [
-      "Quit"
-    ]
-  },
-  {
-    "ID": "4, 14",
-    "text": [
-      "Pick"
-    ]
-  },
-  {
     "ID": "4, 15",
     "text": [
       "Bwow"
-    ]
-  },
-  {
-    "ID": "4, 16",
-    "text": [
-      "Dodge"
-    ]
-  },
-  {
-    "ID": "4, 17",
-    "text": [
-      "Cut"
     ]
   },
   {
@@ -5490,33 +4806,9 @@
     ]
   },
   {
-    "ID": "4, 20",
-    "text": [
-      "Dismount"
-    ]
-  },
-  {
-    "ID": "4, 21",
-    "text": [
-      "Get off"
-    ]
-  },
-  {
     "ID": "4, 22",
     "text": [
       "Dwop down"
-    ]
-  },
-  {
-    "ID": "4, 23",
-    "text": [
-      "Pick up"
-    ]
-  },
-  {
-    "ID": "4, 24",
-    "text": [
-      "Take"
     ]
   },
   {
@@ -5529,18 +4821,6 @@
     "ID": "4, 26",
     "text": [
       "Puww down"
-    ]
-  },
-  {
-    "ID": "4, 27",
-    "text": [
-      "Pet"
-    ]
-  },
-  {
-    "ID": "4, 28",
-    "text": [
-      "Pick up"
     ]
   },
   {
@@ -5562,21 +4842,9 @@
     ]
   },
   {
-    "ID": "4, 32",
-    "text": [
-      "Zoom"
-    ]
-  },
-  {
     "ID": "4, 33",
     "text": [
       "Cuvw"
-    ]
-  },
-  {
-    "ID": "4, 34",
-    "text": [
-      "Push"
     ]
   },
   {
@@ -5592,12 +4860,6 @@
     ]
   },
   {
-    "ID": "4, 37",
-    "text": [
-      "Skip"
-    ]
-  },
-  {
     "ID": "4, 38",
     "text": [
       "Swap"
@@ -5607,24 +4869,6 @@
     "ID": "4, 39",
     "text": [
       "Snyiff"
-    ]
-  },
-  {
-    "ID": "4, 40",
-    "text": [
-      "Bite"
-    ]
-  },
-  {
-    "ID": "4, 41",
-    "text": [
-      "Fasten"
-    ]
-  },
-  {
-    "ID": "4, 42",
-    "text": [
-      "Get down"
     ]
   },
   {
@@ -5640,33 +4884,9 @@
     ]
   },
   {
-    "ID": "4, 45",
-    "text": [
-      "Dash"
-    ]
-  },
-  {
-    "ID": "4, 46",
-    "text": [
-      "Dive"
-    ]
-  },
-  {
     "ID": "4, 47",
     "text": [
       "Snyiff"
-    ]
-  },
-  {
-    "ID": "4, 48",
-    "text": [
-      "Can't skip"
-    ]
-  },
-  {
-    "ID": "4, 49",
-    "text": [
-      "Sense"
     ]
   },
   {
@@ -5682,21 +4902,9 @@
     ]
   },
   {
-    "ID": "4, 52",
-    "text": [
-      "Hook"
-    ]
-  },
-  {
     "ID": "4, 53",
     "text": [
       "Change wocks"
-    ]
-  },
-  {
-    "ID": "4, 54",
-    "text": [
-      "Equip"
     ]
   },
   {
@@ -5718,24 +4926,6 @@
     ]
   },
   {
-    "ID": "4, 58",
-    "text": [
-      "Spin"
-    ]
-  },
-  {
-    "ID": "4, 59",
-    "text": [
-      "Switch"
-    ]
-  },
-  {
-    "ID": "4, 60",
-    "text": [
-      "Spin attack"
-    ]
-  },
-  {
     "ID": "4, 61",
     "text": [
       "Weew fast"
@@ -5751,30 +4941,6 @@
     "ID": "4, 63",
     "text": [
       "Wewease"
-    ]
-  },
-  {
-    "ID": "4, 64",
-    "text": [
-      "Check"
-    ]
-  },
-  {
-    "ID": "4, 65",
-    "text": [
-      "Map"
-    ]
-  },
-  {
-    "ID": "4, 66",
-    "text": [
-      "Items"
-    ]
-  },
-  {
-    "ID": "4, 67",
-    "text": [
-      "Jump"
     ]
   },
   {
@@ -5796,33 +4962,9 @@
     ]
   },
   {
-    "ID": "4, 72",
-    "text": [
-      "Jump"
-    ]
-  },
-  {
     "ID": "4, 73",
     "text": [
       "Fwip"
-    ]
-  },
-  {
-    "ID": "4, 74",
-    "text": [
-      "Change view"
-    ]
-  },
-  {
-    "ID": "4, 75",
-    "text": [
-      "Zoom"
-    ]
-  },
-  {
-    "ID": "4, 76",
-    "text": [
-      "Back"
     ]
   },
   {
@@ -6078,12 +5220,6 @@
     ]
   },
   {
-    "ID": "4, 119",
-    "text": [
-      "Bite"
-    ]
-  },
-  {
     "ID": "4, 120",
     "text": [
       "Muv"
@@ -6102,27 +5238,9 @@
     ]
   },
   {
-    "ID": "4, 123",
-    "text": [
-      "Seize"
-    ]
-  },
-  {
     "ID": "4, 124",
     "text": [
       "Suwvey"
-    ]
-  },
-  {
-    "ID": "4, 125",
-    "text": [
-      "Scoop"
-    ]
-  },
-  {
-    "ID": "4, 126",
-    "text": [
-      "Chance"
     ]
   },
   {
@@ -6192,12 +5310,6 @@
     "ID": "4, 136",
     "text": [
       "Hewp"
-    ]
-  },
-  {
-    "ID": "4, 137",
-    "text": [
-      "Action"
     ]
   },
   {
@@ -6272,12 +5384,6 @@
     ]
   },
   {
-    "ID": "4, 167",
-    "text": [
-      "PAUSE"
-    ]
-  },
-  {
     "ID": "4, 168",
     "text": [
       "SEWECT STAGE"
@@ -6287,18 +5393,6 @@
     "ID": "4, 169",
     "text": [
       "Sewect"
-    ]
-  },
-  {
-    "ID": "4, 170",
-    "text": [
-      "Back"
-    ]
-  },
-  {
-    "ID": "4, 171",
-    "text": [
-      "OK"
     ]
   },
   {
@@ -6329,12 +5423,6 @@
     ]
   },
   {
-    "ID": "4, 176",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "4, 177",
     "text": [
       "NYO"
@@ -6356,18 +5444,6 @@
     "ID": "4, 180",
     "text": [
       "Confiwm"
-    ]
-  },
-  {
-    "ID": "4, 181",
-    "text": [
-      "Back"
-    ]
-  },
-  {
-    "ID": "4, 182",
-    "text": [
-      "Choose"
     ]
   },
   {
@@ -6404,21 +5480,9 @@
     ]
   },
   {
-    "ID": "4, 187",
-    "text": [
-      "Hawkeye OFF"
-    ]
-  },
-  {
     "ID": "4, 188",
     "text": [
       "Wetwy?"
-    ]
-  },
-  {
-    "ID": "4, 189",
-    "text": [
-      "YES"
     ]
   },
   {
@@ -6435,12 +5499,6 @@
     ]
   },
   {
-    "ID": "4, 192",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "4, 193",
     "text": [
       "NYO"
@@ -6454,12 +5512,6 @@
     ]
   },
   {
-    "ID": "4, 195",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "4, 196",
     "text": [
       "NYO"
@@ -6469,18 +5521,6 @@
     "ID": "4, 197",
     "text": [
       "Save youw quest."
-    ]
-  },
-  {
-    "ID": "4, 198",
-    "text": [
-      "Change game settings."
-    ]
-  },
-  {
-    "ID": "4, 199",
-    "text": [
-      "FISH ON!"
     ]
   },
   {
@@ -6554,18 +5594,6 @@
     ]
   },
   {
-    "ID": "4, 211",
-    "text": [
-      "Combo OFF"
-    ]
-  },
-  {
-    "ID": "4, 212",
-    "text": [
-      "Pitch"
-    ]
-  },
-  {
     "ID": "4, 213",
     "text": [
       "Howw"
@@ -6584,23 +5612,11 @@
     ]
   },
   {
-    "ID": "4, 216",
-    "text": [
-      "STEP 1"
-    ]
-  },
-  {
     "ID": "4, 217",
     "text": [
       "Pwease adjust the owange baw so that it",
       "matches the exact size and position of",
       "the Sensow Baw."
-    ]
-  },
-  {
-    "ID": "4, 218",
-    "text": [
-      "STEP 2"
     ]
   },
   {
@@ -6612,23 +5628,11 @@
     ]
   },
   {
-    "ID": "4, 220",
-    "text": [
-      "STEP 3"
-    ]
-  },
-  {
     "ID": "4, 221",
     "text": [
       "Point the Wii Wemote at the scween",
       "and muv the cuwsow vewticawwy untiw it",
       "uvwwaps the centwaw owange ciwcwe."
-    ]
-  },
-  {
-    "ID": "4, 222",
-    "text": [
-      "Swap Set Items"
     ]
   },
   {
@@ -6643,29 +5647,11 @@
     ]
   },
   {
-    "ID": "4, 224",
-    "text": [
-      "B Button"
-    ]
-  },
-  {
     "ID": "4, 225",
     "text": [
       "{1a0506000a}Point at the item that you want to use",
       "{1a0506000b}and set it with {1a05030002}.",
       "{1a0506000a}Pwess {1a05030002} to use it."
-    ]
-  },
-  {
-    "ID": "4, 226",
-    "text": [
-      "1"
-    ]
-  },
-  {
-    "ID": "4, 227",
-    "text": [
-      "2"
     ]
   },
   {
@@ -6693,21 +5679,9 @@
     ]
   },
   {
-    "ID": "5, 22",
-    "text": [
-      "FIGHT!"
-    ]
-  },
-  {
     "ID": "5, 23",
     "text": [
       "Mawk this woom and exit?"
-    ]
-  },
-  {
-    "ID": "5, 24",
-    "text": [
-      "YES"
     ]
   },
   {
@@ -6720,12 +5694,6 @@
     "ID": "5, 26",
     "text": [
       "Wetuwn to the mawked woom?"
-    ]
-  },
-  {
-    "ID": "5, 27",
-    "text": [
-      "YES"
     ]
   },
   {
@@ -6748,33 +5716,9 @@
     ]
   },
   {
-    "ID": "5, 31",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "5, 32",
     "text": [
       "NYO"
-    ]
-  },
-  {
-    "ID": "5, 33",
-    "text": [
-      "Zoom"
-    ]
-  },
-  {
-    "ID": "5, 34",
-    "text": [
-      "Zoom out"
-    ]
-  },
-  {
-    "ID": "5, 35",
-    "text": [
-      "Put away"
     ]
   },
   {
@@ -6793,12 +5737,6 @@
     "ID": "5, 38",
     "text": [
       "Sewect powtaw"
-    ]
-  },
-  {
-    "ID": "5, 39",
-    "text": [
-      "Zoom in"
     ]
   },
   {
@@ -6834,21 +5772,9 @@
     ]
   },
   {
-    "ID": "5, 45",
-    "text": [
-      "GO!"
-    ]
-  },
-  {
     "ID": "5, 46",
     "text": [
       "GOAW!"
-    ]
-  },
-  {
-    "ID": "5, 48",
-    "text": [
-      "Saved."
     ]
   },
   {
@@ -6896,12 +5822,6 @@
     ]
   },
   {
-    "ID": "5, 56",
-    "text": [
-      "YOU WIN!"
-    ]
-  },
-  {
     "ID": "5, 57",
     "text": [
       "YOU WOSE!"
@@ -6926,69 +5846,15 @@
     ]
   },
   {
-    "ID": "5, 60",
-    "text": [
-      "Zoom in"
-    ]
-  },
-  {
-    "ID": "5, 61",
-    "text": [
-      "Zoom out"
-    ]
-  },
-  {
     "ID": "5, 62",
     "text": [
       "SCOWE"
     ]
   },
   {
-    "ID": "5, 63",
-    "text": [
-      "COMBO"
-    ]
-  },
-  {
     "ID": "5, 65",
     "text": [
       "Icon Showtcuts"
-    ]
-  },
-  {
-    "ID": "5, 66",
-    "text": [
-      "+2"
-    ]
-  },
-  {
-    "ID": "5, 67",
-    "text": [
-      "+1"
-    ]
-  },
-  {
-    "ID": "5, 68",
-    "text": [
-      "0"
-    ]
-  },
-  {
-    "ID": "5, 69",
-    "text": [
-      "-1"
-    ]
-  },
-  {
-    "ID": "5, 70",
-    "text": [
-      "-2"
-    ]
-  },
-  {
-    "ID": "5, 71",
-    "text": [
-      "Options"
     ]
   },
   {
@@ -7004,39 +5870,15 @@
     ]
   },
   {
-    "ID": "5, 74",
-    "text": [
-      "Switch"
-    ]
-  },
-  {
     "ID": "5, 75",
     "text": [
       "Fuwiganya"
     ]
   },
   {
-    "ID": "5, 76",
-    "text": [
-      "Off"
-    ]
-  },
-  {
-    "ID": "5, 77",
-    "text": [
-      "On"
-    ]
-  },
-  {
     "ID": "5, 78",
     "text": [
       "Wumbwe"
-    ]
-  },
-  {
-    "ID": "5, 79",
-    "text": [
-      "Sound"
     ]
   },
   {
@@ -7115,21 +5957,9 @@
     ]
   },
   {
-    "ID": "5, 92",
-    "text": [
-      "TV Settings"
-    ]
-  },
-  {
     "ID": "5, 93",
     "text": [
       "Sewect option"
-    ]
-  },
-  {
-    "ID": "5, 94",
-    "text": [
-      "Settings"
     ]
   },
   {
@@ -7148,18 +5978,6 @@
     "ID": "5, 97",
     "text": [
       "Cancew"
-    ]
-  },
-  {
-    "ID": "5, 98",
-    "text": [
-      "End"
-    ]
-  },
-  {
-    "ID": "5, 99",
-    "text": [
-      "Adjust"
     ]
   },
   {
@@ -7202,12 +6020,6 @@
     "ID": "5, 106",
     "text": [
       "Item/Fwoow Sewection"
-    ]
-  },
-  {
-    "ID": "5, 107",
-    "text": [
-      "Check"
     ]
   },
   {
@@ -7268,12 +6080,6 @@
     "ID": "5, 129",
     "text": [
       "Kakawiko Viwwage"
-    ]
-  },
-  {
-    "ID": "5, 130",
-    "text": [
-      "Death Mountain"
     ]
   },
   {
@@ -7367,18 +6173,6 @@
     ]
   },
   {
-    "ID": "5, 151",
-    "text": [
-      "{1a05050008}"
-    ]
-  },
-  {
-    "ID": "5, 152",
-    "text": [
-      "{1a0505000d}"
-    ]
-  },
-  {
     "ID": "5, 153",
     "text": [
       "Owdon Catfish"
@@ -7447,35 +6241,11 @@
     ]
   },
   {
-    "ID": "5, 164",
-    "text": [
-      "fish"
-    ]
-  },
-  {
-    "ID": "5, 165",
-    "text": [
-      "in."
-    ]
-  },
-  {
     "ID": "5, 166",
     "text": [
       "A bobbew-fishing jouwnyaw. Pwess {1a05030001} to",
       "open it and view the wawgest size and",
       "nyumbew of fish {1a05000000}'s caught."
-    ]
-  },
-  {
-    "ID": "5, 170",
-    "text": [
-      "Fused Shadows"
-    ]
-  },
-  {
-    "ID": "5, 171",
-    "text": [
-      "Fused Shadows"
     ]
   },
   {
@@ -7551,12 +6321,6 @@
     ]
   },
   {
-    "ID": "5, 187",
-    "text": [
-      "Give this bug?"
-    ]
-  },
-  {
     "ID": "5, 188",
     "text": [
       "You've awweady given this bug."
@@ -7567,12 +6331,6 @@
     "text": [
       "Pwess {1a05030001} to view a wist of aww",
       "gowden bugs captuwed so faw."
-    ]
-  },
-  {
-    "ID": "5, 191",
-    "text": [
-      "Mansion Map"
     ]
   },
   {
@@ -7673,12 +6431,6 @@
     "ID": "5, 214",
     "text": [
       "Castwe Town"
-    ]
-  },
-  {
-    "ID": "5, 215",
-    "text": [
-      "Death Mountain"
     ]
   },
   {
@@ -8682,24 +7434,6 @@
     ]
   },
   {
-    "ID": "7, 109",
-    "text": [
-      "ITEMS"
-    ]
-  },
-  {
-    "ID": "7, 110",
-    "text": [
-      "MAP"
-    ]
-  },
-  {
-    "ID": "7, 111",
-    "text": [
-      "BACK"
-    ]
-  },
-  {
     "ID": "7, 112",
     "text": [
       "Point the Wii Wemote at the scween."
@@ -8746,12 +7480,6 @@
     "text": [
       "{1a05000001}You cannyot use the {1a06ff000001}Gawe Boomewang{1a06ff000000}",
       "in this woom{1a05000002}"
-    ]
-  },
-  {
-    "ID": "7, 211",
-    "text": [
-      "What is it, {1a05000000}?{1a05000020}"
     ]
   },
   {
@@ -8960,12 +7688,6 @@
     ]
   },
   {
-    "ID": "7, 240",
-    "text": [
-      "{1a05000021}...{1a05000000}..."
-    ]
-  },
-  {
     "ID": "7, 241",
     "text": [
       "If you want to go into twiwight...",
@@ -9029,12 +7751,6 @@
       "{1a0600000901}Twansfowm into human",
       "{1a0600000902}Wawp",
       "{1a0600000903}Tawk to Midnya"
-    ]
-  },
-  {
-    "ID": "7, 250",
-    "text": [
-      "What is it, {1a05000000}?{1a05000020}"
     ]
   },
   {
@@ -9161,12 +7877,6 @@
     "text": [
       "Youw powew is a gift given onwy to",
       "those with confidence to wiewd it."
-    ]
-  },
-  {
-    "ID": "8, 62",
-    "text": [
-      "Huh? What is it?"
     ]
   },
   {
@@ -9758,12 +8468,6 @@
     "text": [
       "This is nyot a time fow idwe chitchat!",
       "Huwwy up and get it donye!"
-    ]
-  },
-  {
-    "ID": "8, 145",
-    "text": [
-      "{1a05000000}! Pay attention!"
     ]
   },
   {
@@ -10629,12 +9333,6 @@
     ]
   },
   {
-    "ID": "9, 202",
-    "text": [
-      "Good stuff inside!"
-    ]
-  },
-  {
     "ID": "9, 203",
     "text": [
       "Wawe item in stock!"
@@ -10683,24 +9381,6 @@
     ]
   },
   {
-    "ID": "9, 211",
-    "text": [
-      "To {1a05000000}..."
-    ]
-  },
-  {
-    "ID": "9, 212",
-    "text": [
-      "Hey, kid!!!"
-    ]
-  },
-  {
-    "ID": "9, 213",
-    "text": [
-      "Update"
-    ]
-  },
-  {
     "ID": "9, 214",
     "text": [
       "Fwom Wife of Yeto"
@@ -10710,24 +9390,6 @@
     "ID": "10, 41",
     "text": [
       "Wenyado"
-    ]
-  },
-  {
-    "ID": "10, 42",
-    "text": [
-      "Ooccoo"
-    ]
-  },
-  {
-    "ID": "10, 43",
-    "text": [
-      "Ooccoo"
-    ]
-  },
-  {
-    "ID": "10, 44",
-    "text": [
-      "The Postman"
     ]
   },
   {
@@ -10791,27 +9453,9 @@
     ]
   },
   {
-    "ID": "10, 55",
-    "text": [
-      "Impaz"
-    ]
-  },
-  {
     "ID": "10, 56",
     "text": [
       "Fwom Jw."
-    ]
-  },
-  {
-    "ID": "10, 57",
-    "text": [
-      "Shad"
-    ]
-  },
-  {
-    "ID": "10, 58",
-    "text": [
-      "Yeta"
     ]
   },
   {
@@ -11285,12 +9929,6 @@
     ]
   },
   {
-    "ID": "11, 199",
-    "text": [
-      "Hey! {1a05000000}!"
-    ]
-  },
-  {
     "ID": "11, 204",
     "text": [
       "{1a06ff000003}Demo 2:Meeting Iwia",
@@ -11329,12 +9967,6 @@
       "The path befowe you is a wong onye,",
       "my sweet howse...but pwease beaw ",
       "{1a05000000} safewy awong it."
-    ]
-  },
-  {
-    "ID": "11, 208",
-    "text": [
-      "Wait... What's this?{1a07000004001e}"
     ]
   },
   {
@@ -11404,18 +10036,6 @@
     ]
   },
   {
-    "ID": "11, 217",
-    "text": [
-      "Oh, this won't do..."
-    ]
-  },
-  {
-    "ID": "11, 225",
-    "text": [
-      "Oh, hi, {1a05000000}."
-    ]
-  },
-  {
     "ID": "11, 226",
     "text": [
       "I washed {1a05000022} fow you!"
@@ -11458,12 +10078,6 @@
       "Fowtunyatewy, it wooks wike the injuwy",
       "isn't too sewious. You two can go",
       "on togethew."
-    ]
-  },
-  {
-    "ID": "11, 239",
-    "text": [
-      "But, {1a05000000}..."
     ]
   },
   {
@@ -11515,12 +10129,6 @@
     ]
   },
   {
-    "ID": "11, 249",
-    "text": [
-      "{1a05000000}."
-    ]
-  },
-  {
     "ID": "11, 250",
     "text": [
       "This gift was meant fow you. It was",
@@ -11549,12 +10157,6 @@
     ]
   },
   {
-    "ID": "11, 255",
-    "text": [
-      "Wait..."
-    ]
-  },
-  {
     "ID": "12, 0",
     "text": [
       "Come...to my spwing... "
@@ -11565,24 +10167,6 @@
     "text": [
       "You have...been twansfowmed...",
       "by the powew...of shadow..."
-    ]
-  },
-  {
-    "ID": "12, 2",
-    "text": [
-      "Come...to me..."
-    ]
-  },
-  {
-    "ID": "12, 9",
-    "text": [
-      "{1a05010014}Eee hee!"
-    ]
-  },
-  {
-    "ID": "12, 10",
-    "text": [
-      "I found you!"
     ]
   },
   {
@@ -11944,12 +10528,6 @@
     ]
   },
   {
-    "ID": "12, 76",
-    "text": [
-      "But..."
-    ]
-  },
-  {
     "ID": "12, 77",
     "text": [
       "Weww, you'd have to be my sewvant...",
@@ -12211,12 +10789,6 @@
       "whewe peopwe woam as spiwits, you",
       "wewe twansfowmed into a bwue-eyed",
       "{1a06ff000001}beast{1a06ff000000}..."
-    ]
-  },
-  {
-    "ID": "12, 135",
-    "text": [
-      "That was a sign..."
     ]
   },
   {
@@ -12515,12 +11087,6 @@
     ]
   },
   {
-    "ID": "12, 205",
-    "text": [
-      "{1a07000004003c}{1a05000000}?!"
-    ]
-  },
-  {
     "ID": "12, 206",
     "text": [
       "Ha ha ha! See, Beth?! I TOWD you",
@@ -12539,12 +11105,6 @@
     "text": [
       "We awe weww met. I am {1a06ff000002}Wenyado{1a06ff000000},",
       "shaman of this town."
-    ]
-  },
-  {
-    "ID": "12, 209",
-    "text": [
-      "{1a07000004002d}And this..."
     ]
   },
   {
@@ -12660,21 +11220,9 @@
     ]
   },
   {
-    "ID": "12, 239",
-    "text": [
-      "{1a07000004001e}{1a05000000}..."
-    ]
-  },
-  {
     "ID": "12, 240",
     "text": [
       "Is evewyonye...OK?"
-    ]
-  },
-  {
-    "ID": "12, 241",
-    "text": [
-      "...Good."
     ]
   },
   {
@@ -12704,13 +11252,6 @@
       "He wasn't tawking about stwength,",
       "wike wifting stuff. He was tawking",
       "about being bwave..."
-    ]
-  },
-  {
-    "ID": "12, 246",
-    "text": [
-      "{1a05000000}... You saved me,",
-      "didn't you?"
     ]
   },
   {
@@ -12746,12 +11287,6 @@
     "ID": "12, 251",
     "text": [
       "You shaww find onye who you seek..."
-    ]
-  },
-  {
-    "ID": "12, 252",
-    "text": [
-      "{1a05000000}..."
     ]
   },
   {
@@ -13095,12 +11630,6 @@
     ]
   },
   {
-    "ID": "13, 83",
-    "text": [
-      "Oh my!"
-    ]
-  },
-  {
     "ID": "13, 84",
     "text": [
       "Wooks wike we've got onye young",
@@ -13167,12 +11696,6 @@
     ]
   },
   {
-    "ID": "13, 93",
-    "text": [
-      "You see what that means?"
-    ]
-  },
-  {
     "ID": "13, 94",
     "text": [
       "You'ww have to deaw with that thing!"
@@ -13184,12 +11707,6 @@
       "Th-Thank you so much fow this.",
       "Um, if you don't mind me asking,",
       "what's youw nyame?"
-    ]
-  },
-  {
-    "ID": "13, 96",
-    "text": [
-      "...{1a05000000}?!"
     ]
   },
   {
@@ -13398,12 +11915,6 @@
     "ID": "13, 144",
     "text": [
       "...Oh nyo!"
-    ]
-  },
-  {
-    "ID": "13, 145",
-    "text": [
-      "Zant!{1a07000004001e}"
     ]
   },
   {
@@ -13782,12 +12293,6 @@
     ]
   },
   {
-    "ID": "13, 223",
-    "text": [
-      "Wait, {1a05000000}."
-    ]
-  },
-  {
     "ID": "13, 224",
     "text": [
       "Befowe we go on, thewe's something",
@@ -14146,12 +12651,6 @@
     ]
   },
   {
-    "ID": "14, 28",
-    "text": [
-      "Yet...{1a07000004005a}"
-    ]
-  },
-  {
     "ID": "14, 29",
     "text": [
       "By some divinye pwank, he, too,",
@@ -14232,12 +12731,6 @@
       "But you must be pwepawed, fow a",
       "dangewous powew wesides in those",
       "{1a06ff000001}fwagments{1a06ff000000}..."
-    ]
-  },
-  {
-    "ID": "14, 47",
-    "text": [
-      "Zant."
     ]
   },
   {
@@ -14533,12 +13026,6 @@
     ]
   },
   {
-    "ID": "14, 101",
-    "text": [
-      "...How amusing."
-    ]
-  },
-  {
     "ID": "14, 102",
     "text": [
       "Vewy weww... Denyy me, then!"
@@ -14632,12 +13119,6 @@
     ]
   },
   {
-    "ID": "14, 123",
-    "text": [
-      "{1a05000000}..."
-    ]
-  },
-  {
     "ID": "14, 124",
     "text": [
       "Chosen hewo!"
@@ -14710,12 +13191,6 @@
     "text": [
       "The histowy of wight and shadow",
       "wiww be wwitten in bwood!"
-    ]
-  },
-  {
-    "ID": "14, 147",
-    "text": [
-      "What? Say something!{1a070000040096}"
     ]
   },
   {
@@ -14806,18 +13281,6 @@
     ]
   },
   {
-    "ID": "14, 158",
-    "text": [
-      "{1a05000000}...{1a07000004003c}"
-    ]
-  },
-  {
-    "ID": "14, 159",
-    "text": [
-      "I...{1a07000004003c}"
-    ]
-  },
-  {
     "ID": "14, 160",
     "text": [
       "See you watew...{1a07000004005a}"
@@ -14831,12 +13294,6 @@
       "",
       "Do you want to copy the save fiwe",
       "to the Wii System Memowy?"
-    ]
-  },
-  {
-    "ID": "14, 198",
-    "text": [
-      "YES"
     ]
   },
   {
@@ -14864,21 +13321,9 @@
     ]
   },
   {
-    "ID": "14, 202",
-    "text": [
-      "YES"
-    ]
-  },
-  {
     "ID": "14, 203",
     "text": [
       "NYO"
-    ]
-  },
-  {
-    "ID": "14, 204",
-    "text": [
-      "Copying..."
     ]
   },
   {
@@ -14929,12 +13374,6 @@
     ]
   },
   {
-    "ID": "14, 218",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "14, 219",
     "text": [
       "Nyo"
@@ -14957,12 +13396,6 @@
       "and must be ewased.",
       "",
       "Ewase the save fiwe nyow?"
-    ]
-  },
-  {
-    "ID": "14, 222",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -15021,12 +13454,6 @@
     ]
   },
   {
-    "ID": "14, 230",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "14, 231",
     "text": [
       "Nyo"
@@ -15037,12 +13464,6 @@
     "text": [
       "Cweate a save fiwe fow this game in the",
       "Wii System Memowy?"
-    ]
-  },
-  {
-    "ID": "14, 233",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -15089,12 +13510,6 @@
     "text": [
       "The Quest Wog is cowwupted. ",
       "Ewase it?"
-    ]
-  },
-  {
-    "ID": "14, 241",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -15180,12 +13595,6 @@
     ]
   },
   {
-    "ID": "15, 3",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "15, 4",
     "text": [
       "Nyo"
@@ -15196,12 +13605,6 @@
     "text": [
       "Unyabwe to save. Continyue without",
       "saving?"
-    ]
-  },
-  {
-    "ID": "15, 6",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -15260,12 +13663,6 @@
     ]
   },
   {
-    "ID": "15, 14",
-    "text": [
-      "Yes"
-    ]
-  },
-  {
     "ID": "15, 15",
     "text": [
       "Nyo"
@@ -15276,12 +13673,6 @@
     "text": [
       "You wiww nyot be abwe to save youw",
       "pwogwess. Continyue without saving?"
-    ]
-  },
-  {
-    "ID": "15, 17",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -15304,12 +13695,6 @@
     "text": [
       "Wouwd you wike to cweate a save fiwe fow",
       "this game in the Wii System Memowy?"
-    ]
-  },
-  {
-    "ID": "15, 21",
-    "text": [
-      "Yes"
     ]
   },
   {
@@ -15397,18 +13782,6 @@
     ]
   },
   {
-    "ID": "15, 163",
-    "text": [
-      "So..."
-    ]
-  },
-  {
-    "ID": "15, 164",
-    "text": [
-      "Ohhh... How did it come to this?"
-    ]
-  },
-  {
     "ID": "15, 165",
     "text": [
       "The chiwdwen... Pwease say",
@@ -15459,21 +13832,9 @@
     ]
   },
   {
-    "ID": "15, 172",
-    "text": [
-      "...This way..."
-    ]
-  },
-  {
     "ID": "15, 173",
     "text": [
       "Just come home safewy.{1a070000040050}"
-    ]
-  },
-  {
-    "ID": "15, 174",
-    "text": [
-      "Hey! What's going on?"
     ]
   },
   {
@@ -15481,12 +13842,6 @@
     "text": [
       "Thewe shouwd be onye mowe... Whewe",
       "couwd the wast {1a06ff000001}teaw{1a06ff000000} be?"
-    ]
-  },
-  {
-    "ID": "15, 176",
-    "text": [
-      "What?!"
     ]
   },
   {
@@ -15499,12 +13854,6 @@
     "ID": "15, 178",
     "text": [
       "What's going on? This is weiwd..."
-    ]
-  },
-  {
-    "ID": "15, 179",
-    "text": [
-      "Huh..."
     ]
   },
   {
@@ -15526,12 +13875,6 @@
     "text": [
       "I bet it'ww be wowth ouw whiwe to dig",
       "in..."
-    ]
-  },
-  {
-    "ID": "15, 183",
-    "text": [
-      "...How about that?"
     ]
   },
   {
@@ -17401,12 +15744,6 @@
     ]
   },
   {
-    "ID": "19, 36",
-    "text": [
-      "{1a05000035}"
-    ]
-  },
-  {
     "ID": "19, 127",
     "text": [
       "The dawknyess has been in Kakawiko",
@@ -17470,12 +15807,6 @@
     "ID": "19, 135",
     "text": [
       "Nyowth south bwidge miwwow space big smaww mystewious shiewd"
-    ]
-  },
-  {
-    "ID": "19, 136",
-    "text": [
-      "test 20060713 22:11pm"
     ]
   }
 ]
