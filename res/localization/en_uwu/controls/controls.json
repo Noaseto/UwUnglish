@@ -30,6 +30,8 @@
   "controls.jump.mode.help": "**Fowwawd**: Wink awways hops fowwawd. **Upwawd**: standing stiww, Wink jumps stwaight up; whiwe moving, he jumps fowwawd.",
   "controls.jump.mode_forward": "Fowwawd",
   "controls.jump.mode_up": "Upwawd",
+  "controls.jump.height": "Jump height",
+  "controls.jump.height.help": "How high the manyuaw jump goes, 100% is the nyowmaw height.",
   "controls.photo_mode": "Photo Mode",
   "controls.photo_mode.hold_button": "Howd button",
   "controls.photo_mode.hold_button.help": "Button hewd whiwe pwessing the photo mode button. **Nyonye**: the photo mode button wowks awonye.",

@@ -33,9 +33,5 @@
   "combat.flurry_rush.status.golden_wolf": "The gowden wowf awaits you at the Tempwe of Time in the Sacwed Gwuv.",
   "combat.flurry_rush.status.learn_seven_first": "Nyot weawnyed yet. Weawn aww seven hidden skiwws fwom the Hewo's Shade fiwst.",
   "combat.flurry_rush.status.howling_stone": "Nyot weawnyed yet. Somewhewe in the Gewudo Desewt, a howwing stonye sings a fowgotten mewody.",
-  "combat.bullet_time.enabled.help": "Aim the bow mid-aiw to swow down time. Dwains staminya and ends when you wand, pwess {btn:A} ow wun out.",
-  "combat.puppet_zelda": "Puppet Zewda",
-  "combat.puppet_zelda.enabled.help": "Gives Puppet Zewda a fixed, weawnyabwe attack pattewn.",
-  "combat.puppet_zelda.always_shortest_attacks_sword_dive": "Awways showtest attacks",
-  "combat.puppet_zelda.always_shortest_attacks_sword_dive.help": "Puppet Zewda onwy uses Swowd Dive."
+  "combat.bullet_time.enabled.help": "Aim the bow mid-aiw to swow down time. Dwains staminya and ends when you wand, pwess {btn:A} ow wun out."
 }

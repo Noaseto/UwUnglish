@@ -1,5 +1,12 @@
 {
   "graphics.description": "Cowow and wens effects, swaying fowiage, snyow on Wink and the wowwd, weaw-time shadows and weawistic watew.",
+  "graphics.preset": "Pweset",
+  "graphics.preset.help": "Sets aww gwaphics options togethew, fwom **Pewfowmance** (wightest) to **Uwtwa** (most demanding).",
+  "graphics.preset.performance": "Pewfowmance",
+  "graphics.preset.balanced": "Bawanced",
+  "graphics.preset.quality": "Quawity",
+  "graphics.preset.ultra": "Uwtwa",
+  "graphics.preset.custom": "Custom",
   "graphics.color_lens": "Cowow & Wens",
   "graphics.color_lens.saturation": "Satuwation",
   "graphics.color_lens.contrast": "Contwast",
@@ -38,7 +45,9 @@
   "graphics.grass.wind": "Wind Wesponse",
   "graphics.grass.interaction": "Bends Awound Chawactews",
   "graphics.grass.ground_cut": "Swowd Cuts Gwound Gwass",
+  "graphics.grass.burn": "Fiwe Buwns Gwass",
   "graphics.grass.ivy": "3D Ivy",
+  "graphics.grass.detailed_lighting": "Detaiwed Bwade Wighting",
   "graphics.snow_cover": "Snyow Cuvw",
   "graphics.snow_cover.snow_falls_on": "Snyow Fawws On",
   "graphics.snow_cover.where": "Whewe",
@@ -162,6 +171,7 @@
   "graphics.volumetric.flare_halo": "Wens Hawo",
   "graphics.volumetric.above_terrain": "Keep Cwouds Abuv Tewwain",
   "graphics.dynamic_shadows.light_source_shadows_warning": "Can cause fwickewing in cewtain aweas and situations.",
+  "graphics.dynamic_shadows.deferred_fog_warning": "Nyot compatibwe with \"Defewwed Fog\" and causes fwickewing with it.",
   "graphics.realistic_water.mirror_distortion": "Miwwow Distowtion",
   "graphics.realistic_water.mirror_distortion_scale": "Miwwow Distowtion Scawe"
 }
