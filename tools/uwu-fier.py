@@ -17,3 +17,17 @@ def uwuify(text):
     text = (text.replace("OVE", "UV"))
 
     return text
+
+
+print(uwuify('''
+default text
+Over
+Lul
+blorp
+not
+'''))
+# defauwt text
+# Uvw
+# Wuw
+# bwowp
+# nyot

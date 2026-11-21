@@ -282,5 +282,11 @@
   "rush.final_time": "Finyaw Time",
   "rush.personal_best": "Pewsonyaw Best",
   "rush.sum_of_best_2": "Sum of Best",
-  "rush.continue": "Continyue"
+  "rush.continue": "Continyue",
+  "rush.leaderboard_view": "%s  -  Weadewboawd",
+  "rush.leaderboard_locked_door": "Weadewboawd wocked - wuns awe nyot upwoaded",
+  "rush.this_dungeon_is_locked_on_the_leaderboard": "this dungeon is wocked on the weadewboawd",
+  "rush.open_it_in_the_dungeon_rush_hub": "Open it in the Dungeon Wush hub",
+  "rush.dungeon_rush_replays_play_on_the_website": "Dungeon Wush wepways pway on the website",
+  "rush.the_game_ran_faster_than_real_time": "the game wan fastew than weaw time"
 }
