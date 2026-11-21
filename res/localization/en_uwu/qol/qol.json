@@ -10,7 +10,7 @@
   "qol.on_shallow_water": "On + shawwow watew",
   "qol.on_shallow_water_both_feet": "On + shawwow watew, both feet",
   "qol.auto_zora_armor": "Auto Zowa Awmow",
-  "qol.auto_zora_armor.help": "**On**: puts on the **Zowa Awmow** in watew and switches back on wand.<bw/>**On + shawwow watew**: awso shows it undew the watew suwface in shawwow watew.<bw/>**On + shawwow watew, both feet**: the waised foot gets it at the same depth too.",
+  "qol.auto_zora_armor.help": "**On**: puts on the **Zowa Awmow** in watew and switches back on wand.<br/>**On + shawwow watew**: awso shows it undew the watew suwface in shawwow watew.<br/>**On + shawwow watew, both feet**: the waised foot gets it at the same depth too.",
   "qol.improved_zora_swimming": "Impwuvd Zowa Swimming",
   "qol.improved_zora_swimming.help": "Smoothew **Zowa Awmow** swimming: tap {btn:A} fow a speed buwst and woww, howd it to swim fast.",
   "qol.spin_attack_charge_levels": "Spin attack chawge wevews",
@@ -38,5 +38,5 @@
   "qol.epona.always": "Awways",
   "qol.epona.hold_sprint_button": "Howd spwint button",
   "qol.epona.auto_gallop": "Auto-gawwop",
-  "qol.epona.auto_gallop.help": "Eponya gawwops at fuww speed without spuws whiwe you push the stick fowwawd.<bw/>**Awways**: awways fuww speed.<bw/>**Howd spwint button**: onwy whiwe you howd {btn:SPRINT}."
+  "qol.epona.auto_gallop.help": "Eponya gawwops at fuww speed without spuws whiwe you push the stick fowwawd.<br/>**Awways**: awways fuww speed.<br/>**Howd spwint button**: onwy whiwe you howd {btn:SPRINT}."
 }

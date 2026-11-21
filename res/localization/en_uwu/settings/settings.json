@@ -140,7 +140,7 @@
   "bug_report.a_bug_report_is_already_being_sent": "A bug wepowt is awweady being sent.",
   "bug_report.send_report": "Send wepowt",
   "bug_report.send_bug_report": "Send bug wepowt",
-  "bug_report.do_you_agree_to_send_a_bug": "Do you agwee to send a bug wepowt to Fimmew? It wiww incwude:\n\n– The wast thwee wog fiwes<bw/>– Youw Twiwit Essentiaws settings<bw/>– Youw cuwwent save fiwe<bw/>– The wist of instawwed mods<bw/>\n\nYouw wepowt gets an ID you can use to fowwow up in the Discowd channyew if something is stiww wwong.\n\nA showt descwiption of what went wwong is wequiwed.",
+  "bug_report.do_you_agree_to_send_a_bug": "Do you agwee to send a bug wepowt to Fimmew? It wiww incwude:\n\n– The wast thwee wog fiwes<br/>– Youw Twiwit Essentiaws settings<br/>– Youw cuwwent save fiwe<br/>– The wist of instawwed mods<br/>\n\nYouw wepowt gets an ID you can use to fowwow up in the Discowd channyew if something is stiww wwong.\n\nA showt descwiption of what went wwong is wequiwed.",
   "settings_transfer.the_file_is_not_valid_json": "The fiwe is nyot vawid JSON.",
   "settings_transfer.settings_must_be_an_object": "\"settings\" must be an object.",
   "settings_transfer.this_is_not_a_twilit_essentials_settings": "This is nyot a Twiwit Essentiaws settings fiwe.",

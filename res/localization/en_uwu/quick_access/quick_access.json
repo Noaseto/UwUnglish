@@ -3,7 +3,7 @@
   "quick_access.quick_access.items_except_bottles": "Items except bottwes",
   "quick_access.quick_access.items_including_bottles": "Items incwuding bottwes",
   "quick_access.quick_access.hide_items_from_item_wheel": "Hide items fwom item wheew",
-  "quick_access.quick_access.hide_items_from_item_wheel.help": "Hides quick items fwom the item wheew.<bw/>**Off**: nyothing hidden.<bw/>**Items except bottwes**: bottwes stay in the wheew.<bw/>**Items incwuding bottwes**: bottwes onwy on the Quick Access bottwe page ({btn:LB}).<bw/>Items on {btn:X} ow {btn:Y} awways stay visibwe.",
+  "quick_access.quick_access.hide_items_from_item_wheel.help": "Hides quick items fwom the item wheew.<br/>**Off**: nyothing hidden.<br/>**Items except bottwes**: bottwes stay in the wheew.<br/>**Items incwuding bottwes**: bottwes onwy on the Quick Access bottwe page ({btn:LB}).<br/>Items on {btn:X} ow {btn:Y} awways stay visibwe.",
   "quick_access.pages.bottles": "Bottwes",
   "quick_access.pages.tunics": "Tunyics",
   "quick_access.hints.customize": "Customize",
