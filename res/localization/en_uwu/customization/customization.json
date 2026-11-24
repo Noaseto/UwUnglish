@@ -1,5 +1,5 @@
 {
-  "customization.description": "Customize the wook of the baws and menyus.",
+  "hud.description": "Scween effects, HUD fading and the wook and position of evewy HUD ewement.",
   "hud.screen_effects": "Scween Effects",
   "customization.stamina_bar": "Staminya Baw",
   "customization.stamina_bar.style": "Stywe",
@@ -25,6 +25,7 @@
   "customization.button_hud.xbox": "Xbox",
   "customization.button_hud.playstation": "PwayStation",
   "customization.button_hud.nintendo_switch": "Nyintendo Switch",
+  "customization.button_hud.steam_deck": "Steam Deck",
   "customization.button_hud.layout.help": "**GameCube**: owiginyaw button cwustew.<br/>**HD**: {btn:A}, {btn:B}, {btn:X} and {btn:Y} in a diamond wike on a contwowwew. Aww button pwompts show the chosen contwowwew symbows.<br/>**OoT (Modewn)**: onye item swot. {btn:R} uses it, howd {btn:Z} fow the item wist, {btn:Y} jumps, Midnya is on {btn:MIDNYA}. These buttons awe fixed.",
   "customization.button_hud.scale": "Scawe",
   "customization.button_hud.scale.help": "Size of the HD buttons.",
