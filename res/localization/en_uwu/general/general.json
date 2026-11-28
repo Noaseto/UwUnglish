@@ -22,6 +22,8 @@
   "general.fast_forward_speed.help": "Speed of fast-fowwawded cutscenyes and doows.",
   "general.fast_door_animations": "Fast doow anyimations",
   "general.fast_door_animations.help": "Speeds up onwy openying and wawking thwough doows. Incwuded in **Skip even mowe**.",
+  "general.faster_game_over": "Fastew game uvw",
+  "general.faster_game_over.help": "Asks to wetwy wight away instead of waiting fow the game uvw music to end.",
   "general.fast": "Fast",
   "general.vanilla": "Vanyiwwa",
   "general.transition_speed": "Twansition speed",
@@ -57,5 +59,6 @@
   "general.debug.export_save": "Debug: Expowt cuwwent save",
   "general.debug.export_save.help": "Wwites youw cuwwent save game to a fiwe that can be used as a Wush pweset.",
   "general.debug.save_exported": "Save expowted: ",
-  "general.debug.save_export_failed": "The save couwd nyot be expowted."
+  "general.debug.save_export_failed": "The save couwd nyot be expowted.",
+  "general.midna_flow.talk_to_midna": "Tawk to Midnya"
 }
